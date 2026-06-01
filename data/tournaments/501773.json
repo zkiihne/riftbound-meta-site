@@ -1,0 +1,232 @@
+{
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "total_players": 1806,
+  "legends": [
+    {
+      "name": "Irelia, Blade Dancer",
+      "field": 263,
+      "t64": 23,
+      "conv_pct": 8.75,
+      "expected": 9.32,
+      "excess": 13.68
+    },
+    {
+      "name": "Draven, Glorious Executioner",
+      "field": 223,
+      "t64": 13,
+      "conv_pct": 5.83,
+      "expected": 7.9,
+      "excess": 5.1
+    },
+    {
+      "name": "Azir, Emperor of the Sands",
+      "field": 51,
+      "t64": 6,
+      "conv_pct": 11.76,
+      "expected": 1.81,
+      "excess": 4.19
+    },
+    {
+      "name": "Annie, Dark Child",
+      "field": 46,
+      "t64": 3,
+      "conv_pct": 6.52,
+      "expected": 1.63,
+      "excess": 1.37
+    },
+    {
+      "name": "Master Yi, Wuju Bladesman",
+      "field": 101,
+      "t64": 4,
+      "conv_pct": 3.96,
+      "expected": 3.58,
+      "excess": 0.42
+    },
+    {
+      "name": "Fiora, Grand Duelist",
+      "field": 76,
+      "t64": 3,
+      "conv_pct": 3.95,
+      "expected": 2.69,
+      "excess": 0.31
+    },
+    {
+      "name": "Darius, Hand of Noxus",
+      "field": 29,
+      "t64": 1,
+      "conv_pct": 3.45,
+      "expected": 1.03,
+      "excess": -0.03
+    },
+    {
+      "name": "Yasuo, Unforgiven",
+      "field": 41,
+      "t64": 1,
+      "conv_pct": 2.44,
+      "expected": 1.45,
+      "excess": -0.45
+    },
+    {
+      "name": "Sivir, Battle Mistress",
+      "field": 16,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.57,
+      "excess": -0.57
+    },
+    {
+      "name": "Garen, Might of Demacia",
+      "field": 21,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.74,
+      "excess": -0.74
+    },
+    {
+      "name": "Renata Glasc, Chem-Baroness",
+      "field": 23,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.82,
+      "excess": -0.82
+    },
+    {
+      "name": "Leona, Radiant Dawn",
+      "field": 24,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.85,
+      "excess": -0.85
+    },
+    {
+      "name": "Jax, Grandmaster at Arms",
+      "field": 26,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.92,
+      "excess": -0.92
+    },
+    {
+      "name": "Miss Fortune, Bounty Hunter",
+      "field": 26,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.92,
+      "excess": -0.92
+    },
+    {
+      "name": "Teemo, Swift Scout",
+      "field": 26,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.92,
+      "excess": -0.92
+    },
+    {
+      "name": "Rek'Sai, Void Burrower",
+      "field": 84,
+      "t64": 2,
+      "conv_pct": 2.38,
+      "expected": 2.98,
+      "excess": -0.98
+    },
+    {
+      "name": "Lee Sin, Blind Monk",
+      "field": 28,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.99,
+      "excess": -0.99
+    },
+    {
+      "name": "Volibear, Relentless Storm",
+      "field": 28,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 0.99,
+      "excess": -0.99
+    },
+    {
+      "name": "Rumble, Mechanized Menace",
+      "field": 34,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.2,
+      "excess": -1.2
+    },
+    {
+      "name": "Jinx, Loose Cannon",
+      "field": 36,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.28,
+      "excess": -1.28
+    },
+    {
+      "name": "Ornn, Fire Below the Mountain",
+      "field": 38,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.35,
+      "excess": -1.35
+    },
+    {
+      "name": "Ezreal, Prodigal Explorer",
+      "field": 68,
+      "t64": 1,
+      "conv_pct": 1.47,
+      "expected": 2.41,
+      "excess": -1.41
+    },
+    {
+      "name": "Lux, Lady of Luminosity",
+      "field": 41,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.45,
+      "excess": -1.45
+    },
+    {
+      "name": "Ahri, Nine-Tailed Fox",
+      "field": 43,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.52,
+      "excess": -1.52
+    },
+    {
+      "name": "Sett, The Boss",
+      "field": 45,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.59,
+      "excess": -1.59
+    },
+    {
+      "name": "Kai'Sa, Daughter of the Void",
+      "field": 191,
+      "t64": 5,
+      "conv_pct": 2.62,
+      "expected": 6.77,
+      "excess": -1.77
+    },
+    {
+      "name": "Lucian, Purifier",
+      "field": 54,
+      "t64": 0,
+      "conv_pct": 0,
+      "expected": 1.91,
+      "excess": -1.91
+    },
+    {
+      "name": "Viktor, Herald of the Arcane",
+      "field": 124,
+      "t64": 2,
+      "conv_pct": 1.61,
+      "expected": 4.39,
+      "excess": -2.39
+    }
+  ]
+}
