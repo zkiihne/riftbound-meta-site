@@ -1,5 +1,17 @@
 [
   {
+    "id": 600265,
+    "name": "Riftbound Regional Qualifier - Vancouver",
+    "date": "2026-05-30",
+    "total_players": 1496
+  },
+  {
+    "id": 559231,
+    "name": "Riftbound Regional Qualifier - Sydney",
+    "date": "2026-05-16",
+    "total_players": 1242
+  },
+  {
     "id": 502327,
     "name": "Riftbound Regional Qualifier: Atlanta",
     "date": "2026-04-25",
@@ -10,5 +22,17 @@
     "name": "Riftbound Regional Qualifier: Lille",
     "date": "2026-04-18",
     "total_players": 1806
+  },
+  {
+    "id": 365709,
+    "name": "Riftbound Regional Qualifier - Las Vegas",
+    "date": "2026-02-28",
+    "total_players": 1382
+  },
+  {
+    "id": 365708,
+    "name": "Riftbound Regional Qualifier - Bologna",
+    "date": "2026-02-21",
+    "total_players": 1364
   }
 ]

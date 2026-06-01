@@ -55,13 +55,9 @@ function round2(n: number) {
 
 async function processEvent(event: RawEvent): Promise<TournamentData> {
   console.log(`  Fetching standings: ${event.name}`);
-  const data = await fetchJson<{ players: RawPlayer[]; has_decklists: boolean }>(
+  const data = await fetchJson<{ players: RawPlayer[] }>(
     `${API_BASE}/standings?event_id=${event.id}`
   );
-
-  if (!data.has_decklists) {
-    throw new Error(`No decklists for event ${event.id} — skip`);
-  }
 
   const players = data.players.filter(
     (p) =>
@@ -113,6 +109,10 @@ async function main() {
   for (const event of complete) {
     try {
       const data = await processEvent(event);
+      if (data.legends.length === 0) {
+        console.log(`  Skipped ${event.name}: no legend data`);
+        continue;
+      }
       const outPath = join(DATA_DIR, `${event.id}.json`);
       writeFileSync(outPath, JSON.stringify(data, null, 2));
       console.log(`  Wrote ${outPath} (${data.legends.length} legends)`);
