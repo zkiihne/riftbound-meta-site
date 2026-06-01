@@ -55,7 +55,7 @@ function round2(n: number) {
 
 async function processEvent(event: RawEvent): Promise<TournamentData> {
   console.log(`  Fetching standings: ${event.name}`);
-  const data = await fetchJson<{ players: RawPlayer[] }>(
+  const data = await fetchJson<{ players: RawPlayer[]; has_decklists: boolean }>(
     `${API_BASE}/standings?event_id=${event.id}`
   );
 
@@ -74,7 +74,7 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
   const t64Counts = new Map<string, number>();
 
   for (const p of players) {
-    const legend = p.legend_name;
+    const legend = p.legend_name as string;
     fieldCounts.set(legend, (fieldCounts.get(legend) ?? 0) + 1);
     if (p.final_place_in_standings <= 64) {
       t64Counts.set(legend, (t64Counts.get(legend) ?? 0) + 1);
