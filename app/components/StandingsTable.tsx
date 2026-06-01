@@ -27,7 +27,7 @@ interface Props {
 
 export default function StandingsTable({ tournaments }: Props) {
   const [selectedId, setSelectedId] = useState(tournaments[0]?.event_id);
-  const [sortKey, setSortKey] = useState<SortKey>("excess");
+  const [sortKey, setSortKey] = useState<SortKey>("field");
   const [sortDir, setSortDir] = useState<SortDir>("desc");
 
   const tournament = tournaments.find((t) => t.event_id === selectedId)!;
