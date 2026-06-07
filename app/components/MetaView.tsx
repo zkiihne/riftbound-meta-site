@@ -6,14 +6,12 @@ import { aggregateLegends } from "@/lib/aggregate";
 import EventFilter from "@/app/components/EventFilter";
 import StandingsTable from "@/app/components/StandingsTable";
 import ChampionGrid from "@/app/components/ChampionGrid";
-import DecklistsView from "@/app/components/DecklistsView";
 
-type Tab = "top64" | "champions" | "decklists";
+type Tab = "top64" | "champions";
 
 const TABS: { key: Tab; label: string }[] = [
   { key: "top64", label: "Top 64%" },
   { key: "champions", label: "By Champion" },
-  { key: "decklists", label: "Decklists" },
 ];
 
 interface Props {
@@ -86,13 +84,8 @@ export default function MetaView({ tournaments }: Props) {
 
       {/* Content */}
       {tab === "top64" && <StandingsTable legends={legends} />}
-      {tab === "champions" && <ChampionGrid legends={legends} />}
-      {tab === "decklists" && (
-        <DecklistsView
-          tournaments={tournaments}
-          selectedIds={selectedIds}
-          nameFilter={nameFilter}
-        />
+      {tab === "champions" && (
+        <ChampionGrid legends={legends} selectedTournaments={selected} />
       )}
     </div>
   );
