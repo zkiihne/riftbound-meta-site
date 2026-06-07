@@ -26,6 +26,7 @@ export interface LegendStats {
   conv_pct: number;
   expected: number;
   excess: number;
+  best_place: number;
 }
 
 export interface TournamentData {
@@ -68,13 +69,17 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
 
   const fieldCounts = new Map<string, number>();
   const t64Counts = new Map<string, number>();
+  const bestPlace = new Map<string, number>();
 
   for (const p of players) {
     const legend = p.legend_name as string;
     fieldCounts.set(legend, (fieldCounts.get(legend) ?? 0) + 1);
-    if (p.final_place_in_standings <= 64) {
+    const place = p.final_place_in_standings;
+    if (place <= 64) {
       t64Counts.set(legend, (t64Counts.get(legend) ?? 0) + 1);
     }
+    const prev = bestPlace.get(legend) ?? Infinity;
+    if (place < prev) bestPlace.set(legend, place);
   }
 
   const legends: LegendStats[] = Array.from(fieldCounts.entries())
@@ -83,7 +88,8 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
       const conv_pct = round2((t64 / field) * 100);
       const expected = round2((field / totalPlayers) * 64);
       const excess = round2(t64 - expected);
-      return { name, field, t64, conv_pct, expected, excess };
+      const best_place = bestPlace.get(name) ?? 0;
+      return { name, field, t64, conv_pct, expected, excess, best_place };
     })
     .sort((a, b) => b.excess - a.excess);
 

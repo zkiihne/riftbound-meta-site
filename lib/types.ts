@@ -5,6 +5,7 @@ export interface LegendStats {
   conv_pct: number;
   expected: number;
   excess: number;
+  best_place: number;
 }
 
 export interface TournamentData {

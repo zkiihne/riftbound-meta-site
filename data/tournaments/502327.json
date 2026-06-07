@@ -10,7 +10,8 @@
       "t64": 16,
       "conv_pct": 7.58,
       "expected": 9.39,
-      "excess": 6.61
+      "excess": 6.61,
+      "best_place": 2
     },
     {
       "name": "Irelia, Blade Dancer",
@@ -18,7 +19,8 @@
       "t64": 13,
       "conv_pct": 7.69,
       "expected": 7.52,
-      "excess": 5.48
+      "excess": 5.48,
+      "best_place": 3
     },
     {
       "name": "Master Yi, Wuju Bladesman",
@@ -26,7 +28,8 @@
       "t64": 7,
       "conv_pct": 8.43,
       "expected": 3.69,
-      "excess": 3.31
+      "excess": 3.31,
+      "best_place": 9
     },
     {
       "name": "Lucian, Purifier",
@@ -34,7 +37,8 @@
       "t64": 4,
       "conv_pct": 7.27,
       "expected": 2.45,
-      "excess": 1.55
+      "excess": 1.55,
+      "best_place": 33
     },
     {
       "name": "Annie, Dark Child",
@@ -42,7 +46,8 @@
       "t64": 3,
       "conv_pct": 6.12,
       "expected": 2.18,
-      "excess": 0.82
+      "excess": 0.82,
+      "best_place": 1
     },
     {
       "name": "Sett, The Boss",
@@ -50,7 +55,8 @@
       "t64": 2,
       "conv_pct": 7.41,
       "expected": 1.2,
-      "excess": 0.8
+      "excess": 0.8,
+      "best_place": 7
     },
     {
       "name": "Kai'Sa, Daughter of the Void",
@@ -58,7 +64,8 @@
       "t64": 5,
       "conv_pct": 5.1,
       "expected": 4.36,
-      "excess": 0.64
+      "excess": 0.64,
+      "best_place": 5
     },
     {
       "name": "Jinx, Loose Cannon",
@@ -66,7 +73,8 @@
       "t64": 1,
       "conv_pct": 4,
       "expected": 1.11,
-      "excess": -0.11
+      "excess": -0.11,
+      "best_place": 21
     },
     {
       "name": "Viktor, Herald of the Arcane",
@@ -74,7 +82,8 @@
       "t64": 3,
       "conv_pct": 4.23,
       "expected": 3.16,
-      "excess": -0.16
+      "excess": -0.16,
+      "best_place": 45
     },
     {
       "name": "Sivir, Battle Mistress",
@@ -82,7 +91,8 @@
       "t64": 1,
       "conv_pct": 3.7,
       "expected": 1.2,
-      "excess": -0.2
+      "excess": -0.2,
+      "best_place": 61
     },
     {
       "name": "Teemo, Swift Scout",
@@ -90,7 +100,8 @@
       "t64": 1,
       "conv_pct": 3.57,
       "expected": 1.25,
-      "excess": -0.25
+      "excess": -0.25,
+      "best_place": 19
     },
     {
       "name": "Volibear, Relentless Storm",
@@ -98,7 +109,8 @@
       "t64": 1,
       "conv_pct": 3.45,
       "expected": 1.29,
-      "excess": -0.29
+      "excess": -0.29,
+      "best_place": 41
     },
     {
       "name": "Fiora, Grand Duelist",
@@ -106,7 +118,8 @@
       "t64": 2,
       "conv_pct": 3.85,
       "expected": 2.31,
-      "excess": -0.31
+      "excess": -0.31,
+      "best_place": 44
     },
     {
       "name": "Darius, Hand of Noxus",
@@ -114,7 +127,8 @@
       "t64": 1,
       "conv_pct": 3.13,
       "expected": 1.42,
-      "excess": -0.42
+      "excess": -0.42,
+      "best_place": 28
     },
     {
       "name": "Ezreal, Prodigal Explorer",
@@ -122,7 +136,8 @@
       "t64": 2,
       "conv_pct": 3.64,
       "expected": 2.45,
-      "excess": -0.45
+      "excess": -0.45,
+      "best_place": 4
     },
     {
       "name": "Garen, Might of Demacia",
@@ -130,7 +145,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 0.76,
-      "excess": -0.76
+      "excess": -0.76,
+      "best_place": 496
     },
     {
       "name": "Renata Glasc, Chem-Baroness",
@@ -138,7 +154,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 0.89,
-      "excess": -0.89
+      "excess": -0.89,
+      "best_place": 356
     },
     {
       "name": "Lee Sin, Blind Monk",
@@ -146,7 +163,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.02,
-      "excess": -1.02
+      "excess": -1.02,
+      "best_place": 72
     },
     {
       "name": "Azir, Emperor of the Sands",
@@ -154,7 +172,8 @@
       "t64": 1,
       "conv_pct": 2.13,
       "expected": 2.09,
-      "excess": -1.09
+      "excess": -1.09,
+      "best_place": 27
     },
     {
       "name": "Miss Fortune, Bounty Hunter",
@@ -162,7 +181,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.11,
-      "excess": -1.11
+      "excess": -1.11,
+      "best_place": 153
     },
     {
       "name": "Jax, Grandmaster at Arms",
@@ -170,7 +190,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.16,
-      "excess": -1.16
+      "excess": -1.16,
+      "best_place": 102
     },
     {
       "name": "Lux, Lady of Luminosity",
@@ -178,7 +199,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.2,
-      "excess": -1.2
+      "excess": -1.2,
+      "best_place": 156
     },
     {
       "name": "Yasuo, Unforgiven",
@@ -186,7 +208,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.29,
-      "excess": -1.29
+      "excess": -1.29,
+      "best_place": 130
     },
     {
       "name": "Leona, Radiant Dawn",
@@ -194,7 +217,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.42,
-      "excess": -1.42
+      "excess": -1.42,
+      "best_place": 319
     },
     {
       "name": "Ahri, Nine-Tailed Fox",
@@ -202,7 +226,8 @@
       "t64": 1,
       "conv_pct": 1.72,
       "expected": 2.58,
-      "excess": -1.58
+      "excess": -1.58,
+      "best_place": 31
     },
     {
       "name": "Ornn, Fire Below the Mountain",
@@ -210,7 +235,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.6,
-      "excess": -1.6
+      "excess": -1.6,
+      "best_place": 124
     },
     {
       "name": "Rumble, Mechanized Menace",
@@ -218,7 +244,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 1.74,
-      "excess": -1.74
+      "excess": -1.74,
+      "best_place": 93
     },
     {
       "name": "Rek'Sai, Void Burrower",
@@ -226,7 +253,8 @@
       "t64": 0,
       "conv_pct": 0,
       "expected": 2.14,
-      "excess": -2.14
+      "excess": -2.14,
+      "best_place": 90
     }
   ]
 }
