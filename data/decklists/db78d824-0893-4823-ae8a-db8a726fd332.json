@@ -1,0 +1,170 @@
+{
+  "deck_id": "db78d824-0893-4823-ae8a-db8a726fd332",
+  "deck_name": "Kaisa Rumble Eskalation.",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 38,
+  "username": "luzisfischbrote",
+  "legend_name": "Kai'Sa, Daughter of the Void",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

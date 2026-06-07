@@ -1,0 +1,160 @@
+{
+  "deck_id": "4d74148a-f069-4eff-9dcb-825a1b284855",
+  "deck_name": "New Deck 2026-03-01",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 35,
+  "username": "kensho",
+  "legend_name": "Sett, The Boss",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Arena Bar",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cithria of Cloudfield",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Showstopper",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fae Dragon",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Kinkou Monk",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sea Monkey",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "deck_id": "45dc0fd1-da7e-4442-9d5b-5a8eb9fe1533",
+  "deck_name": "Imported Deck 2026-05-30",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 37,
+  "username": "Bolun Zhang",
+  "legend_name": "Annie, Dark Child",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Evelynn, Entrancing",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Flash",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Fresh Beans",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Grim Apothecary",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pyke, Returned",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "deck_id": "3f2e2512-0a90-423c-ac7f-ef71bc5f3b7e",
+  "deck_name": "Pre-Vancouver Showdown Alan Y Deck Submission",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 21,
+  "username": "Riuzake",
+  "legend_name": "LeBlanc, Deceiver",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Black Rose Dignitary",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Karthus, Eternal",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rift Herald",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruined Rex",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Mirror Image",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Atakhan",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 8,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Atakhan",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "LeBlanc, Everywhere at Once",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

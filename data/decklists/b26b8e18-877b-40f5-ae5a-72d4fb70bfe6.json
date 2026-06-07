@@ -1,0 +1,140 @@
+{
+  "deck_id": "b26b8e18-877b-40f5-ae5a-72d4fb70bfe6",
+  "deck_name": "Anni lille",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 17,
+  "username": "Lordpet",
+  "legend_name": "Annie, Dark Child",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Flash",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Mindsplitter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

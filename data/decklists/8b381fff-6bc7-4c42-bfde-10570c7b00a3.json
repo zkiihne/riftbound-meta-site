@@ -1,0 +1,155 @@
+{
+  "deck_id": "8b381fff-6bc7-4c42-bfde-10570c7b00a3",
+  "deck_name": "Lille",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 41,
+  "username": "ZNT Agazapado",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vengeance",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Jayce, Man of Progress",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Vanguard Armory",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

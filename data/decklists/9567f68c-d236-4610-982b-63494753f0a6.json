@@ -1,0 +1,135 @@
+{
+  "deck_id": "9567f68c-d236-4610-982b-63494753f0a6",
+  "deck_name": "Yi",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 22,
+  "username": "Fatpoe",
+  "legend_name": "Master Yi, Wuju Bladesman",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Clockwork Keeper",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Back Off",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "deck_id": "36002f56-aab0-4eb1-99fe-ab2ac278f64c",
+  "deck_name": "KaioDeck",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 13,
+  "username": "KaioKampa",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Draven, Audacious",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "The Syren",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Adaptatron",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

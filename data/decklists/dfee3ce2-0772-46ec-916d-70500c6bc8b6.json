@@ -1,0 +1,145 @@
+{
+  "deck_id": "dfee3ce2-0772-46ec-916d-70500c6bc8b6",
+  "deck_name": "KaiSa Frosty First RQ",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 5,
+  "username": "Frosty",
+  "legend_name": "Kai'Sa, Daughter of the Void",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Icathian Rain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

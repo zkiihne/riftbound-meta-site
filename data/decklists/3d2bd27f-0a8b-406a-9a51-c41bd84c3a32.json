@@ -1,0 +1,160 @@
+{
+  "deck_id": "3d2bd27f-0a8b-406a-9a51-c41bd84c3a32",
+  "deck_name": "New Deck",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 52,
+  "username": "VinzHS",
+  "legend_name": "Draven, Glorious Executioner",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

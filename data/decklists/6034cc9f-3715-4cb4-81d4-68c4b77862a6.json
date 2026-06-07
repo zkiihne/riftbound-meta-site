@@ -1,0 +1,170 @@
+{
+  "deck_id": "6034cc9f-3715-4cb4-81d4-68c4b77862a6",
+  "deck_name": "Riftbound Regional Qualifier - Vancouver Blake L Deck Submission",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 39,
+  "username": "Serkesul",
+  "legend_name": "Miss Fortune, Bounty Hunter",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "The Harrowing",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Heedless Resurrection",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Baron Nashor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Flurry of Blades",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bullet Time",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lunar Boon",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Scryer's Bloom",
+          "quantity": 3,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Heedless Resurrection",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

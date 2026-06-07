@@ -1,0 +1,160 @@
+{
+  "deck_id": "974103b8-1eba-45ff-9a32-b023e0484fa8",
+  "deck_name": "Fiora - RQ Atlanta",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 50,
+  "username": "his depression",
+  "legend_name": "Fiora, Grand Duelist",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Kinkou Monk",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sea Monkey",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Riposte",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Unsung Hero",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

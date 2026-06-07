@@ -1,0 +1,165 @@
+{
+  "deck_id": "bde1229c-f545-411d-8503-f5b2da42780b",
+  "deck_name": "Irelia Set 3",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 40,
+  "username": "perk",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

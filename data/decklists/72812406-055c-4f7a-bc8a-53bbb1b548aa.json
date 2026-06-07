@@ -1,0 +1,155 @@
+{
+  "deck_id": "72812406-055c-4f7a-bc8a-53bbb1b548aa",
+  "deck_name": "Irelia Unleashed",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 14,
+  "username": "vAzn",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Emperor's Divide",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

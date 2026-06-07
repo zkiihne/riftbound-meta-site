@@ -1,0 +1,150 @@
+{
+  "deck_id": "f3cc552d-4725-46fb-b7e6-e10996283a80",
+  "deck_name": "Pre-Regional Challenge - RQ Atlanta Friday 1pm Player Deck Submission",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 11,
+  "username": "Mrtoolshed",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "The Syren",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "deck_id": "504105a4-2d44-4b63-affe-ce4506b0b839",
+  "deck_name": "Pre-Regional Challenge - RQ Vancouver Friday 1pm Sean R Deck Submission",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 53,
+  "username": "Leseandre",
+  "legend_name": "Azir, Emperor of the Sands",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Soul Sword",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Arise!",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

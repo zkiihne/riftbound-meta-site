@@ -1,0 +1,155 @@
+{
+  "deck_id": "cb277987-64ca-420b-b08e-98bd059d7c15",
+  "deck_name": "Fiora",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 32,
+  "username": "Vendorty",
+  "legend_name": "Fiora, Grand Duelist",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Unsung Hero",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Riposte",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

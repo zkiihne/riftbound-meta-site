@@ -1,0 +1,160 @@
+{
+  "deck_id": "9105adde-dcf5-47e4-9fe3-28b8193d83a2",
+  "deck_name": "Irelia PRQ",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 51,
+  "username": "Arya",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

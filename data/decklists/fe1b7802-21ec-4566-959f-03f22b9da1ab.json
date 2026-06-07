@@ -1,0 +1,150 @@
+{
+  "deck_id": "fe1b7802-21ec-4566-959f-03f22b9da1ab",
+  "deck_name": "rengar",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 28,
+  "username": "bakedkale",
+  "legend_name": "Rengar, Pridestalker",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Determined Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Repulse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Irresistible Faefolk",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thrill of the Hunt",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Grim Apothecary",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Nidalee, Cat Form",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "type": "Rune"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 8,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Repulse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

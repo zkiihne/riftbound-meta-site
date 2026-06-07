@@ -1,0 +1,170 @@
+{
+  "deck_id": "5179c9ea-a937-461f-9d62-7cd70551f26a",
+  "deck_name": "Kai'Sa Main Event set 3",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 15,
+  "username": "Sinzari",
+  "legend_name": "Kai'Sa, Daughter of the Void",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Smite",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Turn to Dust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Smite",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "deck_id": "6e209ac0-2702-47b6-805d-68c590cfcc7b",
+  "deck_name": "Sivir",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 56,
+  "username": "Apexy",
+  "legend_name": "Sivir, Battle Mistress",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Flurry of Blades",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Lunar Boon",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Scryer's Bloom",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Heedless Resurrection",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Disposal Order",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

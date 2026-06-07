@@ -1,0 +1,203 @@
+{
+  "deck_id": "6c362b78-8c08-4e26-abeb-d47e5151a87f",
+  "deck_name": "光女",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 60,
+  "username": "tingfw",
+  "legend_name": "Lux, Lady of Luminosity",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Burst",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Soaring Scout",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Zaun Punk",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "The Ruination",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Jhin, Meticulous Killer",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Zaun Punk",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "The Ruination",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "section_type": "champion",
+      "cards": [
+        {
+          "name": "Lux, Crownguard",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "section_type": "legend",
+      "cards": [
+        {
+          "name": "Lux, Lady of Luminosity",
+          "quantity": 1,
+          "type": "Legend"
+        }
+      ]
+    },
+    {
+      "name": "Battlefields",
+      "section_type": "battlefield",
+      "cards": [
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "type": "Battlefield"
+        }
+      ]
+    }
+  ]
+}

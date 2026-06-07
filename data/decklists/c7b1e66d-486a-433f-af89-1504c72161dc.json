@@ -1,0 +1,165 @@
+{
+  "deck_id": "c7b1e66d-486a-433f-af89-1504c72161dc",
+  "deck_name": "Janky as heck",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 8,
+  "username": "StarDust",
+  "legend_name": "Draven, Glorious Executioner",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

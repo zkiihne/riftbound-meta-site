@@ -1,0 +1,165 @@
+{
+  "deck_id": "15ffae5e-d6f0-4d40-8354-29c3a863ede0",
+  "deck_name": "Pre-Regional Challenge - RQ Atlanta Friday 1pm Player Deck Submission",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 56,
+  "username": "Dokgebi",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "deck_id": "0c6ea492-24cb-452a-bccb-feecee8ad873",
+  "deck_name": "Draven post 2.0",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 2,
+  "username": "CTCG Koko Lopez",
+  "legend_name": "Draven, Glorious Executioner",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

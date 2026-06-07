@@ -1,0 +1,180 @@
+{
+  "deck_id": "3bf5d27b-9a96-48d5-9e5c-1b20acb6f1ad",
+  "deck_name": "Midrange Pyke",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 23,
+  "username": "RoyY",
+  "legend_name": "Pyke, Bloodharbor Ripper",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Baron Nashor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Bewitching Spirit",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Death from Below",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

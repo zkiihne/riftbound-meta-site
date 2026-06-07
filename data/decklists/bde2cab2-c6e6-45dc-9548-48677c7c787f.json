@@ -1,0 +1,155 @@
+{
+  "deck_id": "bde2cab2-c6e6-45dc-9548-48677c7c787f",
+  "deck_name": "Ez updat",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 4,
+  "username": "CTG Alanzq",
+  "legend_name": "Ezreal, Prodigal Explorer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Arcane Shift",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Arcane Shift",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

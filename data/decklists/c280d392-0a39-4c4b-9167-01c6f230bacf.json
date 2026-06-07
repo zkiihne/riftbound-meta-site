@@ -1,0 +1,155 @@
+{
+  "deck_id": "c280d392-0a39-4c4b-9167-01c6f230bacf",
+  "deck_name": "New Deck 2026-04-16",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 27,
+  "username": "Rocklho",
+  "legend_name": "Azir, Emperor of the Sands",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Arise!",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Desert's Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Janna, Savior",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

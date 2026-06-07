@@ -1,0 +1,160 @@
+{
+  "deck_id": "80930bda-f3fe-44de-8abd-55cd1784c00f",
+  "deck_name": "MF Doom",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 58,
+  "username": "Supreme",
+  "legend_name": "Miss Fortune, Bounty Hunter",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Bullet Time",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Flurry of Blades",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Lunar Boon",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Scryer's Bloom",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "The Harrowing",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Baron Nashor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

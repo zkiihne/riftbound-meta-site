@@ -1,0 +1,155 @@
+{
+  "deck_id": "ca5fb50d-2af0-4331-827f-1d8a98322a8a",
+  "deck_name": "Viktor Lille",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 48,
+  "username": "Superjad",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

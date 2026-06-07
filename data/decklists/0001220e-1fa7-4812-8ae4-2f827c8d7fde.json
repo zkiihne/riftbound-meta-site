@@ -1,0 +1,170 @@
+{
+  "deck_id": "0001220e-1fa7-4812-8ae4-2f827c8d7fde",
+  "deck_name": "Azir Lillie",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 64,
+  "username": "DarthTheron",
+  "legend_name": "Azir, Emperor of the Sands",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Tasty Faefolk",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Zaun Punk",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Corina Veraza",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Tianna Crownguard",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Arise!",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Executioner",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Noxian Drummer",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Tianna Crownguard",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

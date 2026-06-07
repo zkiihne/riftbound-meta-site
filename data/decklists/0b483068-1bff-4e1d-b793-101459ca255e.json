@@ -1,0 +1,140 @@
+{
+  "deck_id": "0b483068-1bff-4e1d-b793-101459ca255e",
+  "deck_name": "New Deck 2026-04-15",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 59,
+  "username": "CC Membis",
+  "legend_name": "Rek'Sai, Void Burrower",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Daring Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Vanguard Captain",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Seal of Unity",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Trusty Ramhound",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Undertitan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Void Rush",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

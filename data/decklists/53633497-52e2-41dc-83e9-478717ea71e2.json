@@ -1,0 +1,140 @@
+{
+  "deck_id": "53633497-52e2-41dc-83e9-478717ea71e2",
+  "deck_name": "RQ Vancouver mai",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 64,
+  "username": "lunasky",
+  "legend_name": "Teemo, Swift Scout",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Evelynn, Entrancing",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Unchecked Power",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

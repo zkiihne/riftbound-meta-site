@@ -1,0 +1,188 @@
+{
+  "deck_id": "e8fc75b1-6a81-4c33-a773-d2f93d680281",
+  "deck_name": "Blade mommy",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 43,
+  "username": "Fr0zen",
+  "legend_name": "Fiora, Grand Duelist",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Divining Shells",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Riposte",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Shepherd's Heirloom",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Rift Herald",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 8,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 4,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Repulse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "section_type": "champion",
+      "cards": [
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "section_type": "legend",
+      "cards": [
+        {
+          "name": "Fiora, Grand Duelist",
+          "quantity": 1,
+          "type": "Legend"
+        }
+      ]
+    },
+    {
+      "name": "Battlefields",
+      "section_type": "battlefield",
+      "cards": [
+        {
+          "name": "Amateur Recital",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "type": "Battlefield"
+        }
+      ]
+    }
+  ]
+}

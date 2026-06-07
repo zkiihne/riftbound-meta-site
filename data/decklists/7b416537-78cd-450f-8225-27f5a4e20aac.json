@@ -1,0 +1,170 @@
+{
+  "deck_id": "7b416537-78cd-450f-8225-27f5a4e20aac",
+  "deck_name": "Pre-Regional Challenge - RQ Vancouver Friday 1pm paul l Deck Submission",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 27,
+  "username": "slabshark2025",
+  "legend_name": "Ezreal, Prodigal Explorer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Annie, Stubborn",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Whirlwind",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Bewitching Spirit",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "The List",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Aspiring Engineer",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

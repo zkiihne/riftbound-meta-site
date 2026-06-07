@@ -1,0 +1,150 @@
+{
+  "deck_id": "f2c28c11-a196-4c2e-b6a6-54bd350893b4",
+  "deck_name": "Imported Deck 2026-04-16",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 23,
+  "username": "AnimationModule",
+  "legend_name": "Fiora, Grand Duelist",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Unsung Hero",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Riposte",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Buhru Captain",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sea Monkey",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

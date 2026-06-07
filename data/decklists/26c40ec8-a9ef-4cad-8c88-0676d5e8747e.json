@@ -1,0 +1,140 @@
+{
+  "deck_id": "26c40ec8-a9ef-4cad-8c88-0676d5e8747e",
+  "deck_name": "Riftbound  Chicas Yi",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 43,
+  "username": "Chicas",
+  "legend_name": "Master Yi, Wuju Bladesman",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Clockwork Keeper",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Primal Strength",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Peerless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stalwart Poro",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 2,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Peerless",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

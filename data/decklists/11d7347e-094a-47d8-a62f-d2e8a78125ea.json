@@ -1,0 +1,155 @@
+{
+  "deck_id": "11d7347e-094a-47d8-a62f-d2e8a78125ea",
+  "deck_name": "Atlanta Ahri",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 31,
+  "username": "Teh Bestest One",
+  "legend_name": "Ahri, Nine-Tailed Fox",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Feral Strength",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Find Your Center",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Meditation",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Tasty Faefolk",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Desert's Call",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Blitzcrank, Impassive",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ahri, Alluring",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

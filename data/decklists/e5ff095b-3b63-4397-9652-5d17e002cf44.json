@@ -1,0 +1,160 @@
+{
+  "deck_id": "e5ff095b-3b63-4397-9652-5d17e002cf44",
+  "deck_name": "红印卡莎",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 57,
+  "username": "tingfw",
+  "legend_name": "Kai'Sa, Daughter of the Void",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Icathian Rain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Draven, Showboat",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

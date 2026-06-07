@@ -1,0 +1,140 @@
+{
+  "deck_id": "9d5a300c-8ea3-43f6-b10b-e64ef63d5e37",
+  "deck_name": "Darius hook",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 53,
+  "username": "Sanan",
+  "legend_name": "Darius, Hand of Noxus",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Trifarian Gloryseeker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vanguard Captain",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Seal of Unity",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Trusty Ramhound",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Grand Strategem",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Draven, Showboat",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 9,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Grand Strategem",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

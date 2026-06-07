@@ -1,0 +1,145 @@
+{
+  "deck_id": "884055da-682c-412c-86f8-55f9f4026853",
+  "deck_name": "Anuraag D's Deck",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 41,
+  "username": "Anzid To Win",
+  "legend_name": "Ezreal, Prodigal Explorer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Pack of Wonders",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "The List",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bewitching Spirit",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Deadly Flourish",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

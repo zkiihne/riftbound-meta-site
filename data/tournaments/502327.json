@@ -256,5 +256,455 @@
       "excess": -2.14,
       "best_place": 90
     }
+  ],
+  "t64_players": [
+    {
+      "place": 1,
+      "username": "Prismaticismism",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "05566f54-e0b2-45b2-92ea-3ff4a6c08c17",
+      "has_decklist": false
+    },
+    {
+      "place": 2,
+      "username": "CTCG Koko Lopez",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "0c6ea492-24cb-452a-bccb-feecee8ad873",
+      "has_decklist": true
+    },
+    {
+      "place": 3,
+      "username": "HaruKaze",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "12f82cbe-e29f-4e66-b184-cfbfd90b108d",
+      "has_decklist": true
+    },
+    {
+      "place": 4,
+      "username": "CTG Alanzq",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": "bde2cab2-c6e6-45dc-9548-48677c7c787f",
+      "has_decklist": true
+    },
+    {
+      "place": 5,
+      "username": "Frosty",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "dfee3ce2-0772-46ec-916d-70500c6bc8b6",
+      "has_decklist": true
+    },
+    {
+      "place": 6,
+      "username": "Boulevard",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "a0a29780-f7b5-48af-a4c6-bce7115b8e3c",
+      "has_decklist": true
+    },
+    {
+      "place": 7,
+      "username": "CTCG Collin K",
+      "legend_name": "Sett, The Boss",
+      "deck_id": "ec47696c-a629-40c5-b5e7-80614cd9c764",
+      "has_decklist": true
+    },
+    {
+      "place": 8,
+      "username": "StarDust",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "c7b1e66d-486a-433f-af89-1504c72161dc",
+      "has_decklist": true
+    },
+    {
+      "place": 9,
+      "username": "ominousmilk",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "91eb6531-0613-4701-96cd-89d465e94acb",
+      "has_decklist": true
+    },
+    {
+      "place": 10,
+      "username": "Dhawally",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "323b51f3-1f1f-498e-a7f6-346c48b66fe4",
+      "has_decklist": true
+    },
+    {
+      "place": 11,
+      "username": "Mrtoolshed",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "f3cc552d-4725-46fb-b7e6-e10996283a80",
+      "has_decklist": true
+    },
+    {
+      "place": 12,
+      "username": "Aikado",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "88b4355b-f71a-4d06-9372-cfa277cecf20",
+      "has_decklist": true
+    },
+    {
+      "place": 13,
+      "username": "Staroson",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "8831b830-5beb-4527-8429-b023510c81fb",
+      "has_decklist": true
+    },
+    {
+      "place": 14,
+      "username": "WasianSwag",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "004f02ad-9594-4305-96e7-2a9882f55299",
+      "has_decklist": true
+    },
+    {
+      "place": 15,
+      "username": "TTA",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "c2e73152-d5c8-4a75-a0c1-7eb1e928dd86",
+      "has_decklist": true
+    },
+    {
+      "place": 16,
+      "username": "LilacAngel",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "08f344cb-bfff-4baa-850e-33f74aa9b01e",
+      "has_decklist": true
+    },
+    {
+      "place": 17,
+      "username": "Flamekilla",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "a61da916-38eb-44de-a4ba-fdeb3b4565ee",
+      "has_decklist": true
+    },
+    {
+      "place": 18,
+      "username": "Ozmister",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "d57c64ca-3603-4a0b-a856-1f67c3ee8de5",
+      "has_decklist": true
+    },
+    {
+      "place": 19,
+      "username": "Nashun",
+      "legend_name": "Teemo, Swift Scout",
+      "deck_id": "ba78d29d-2b6d-4f66-9994-f69cfeda341d",
+      "has_decklist": true
+    },
+    {
+      "place": 20,
+      "username": "conconman",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "32db642c-9097-4f20-99b0-5d0034576d4b",
+      "has_decklist": true
+    },
+    {
+      "place": 21,
+      "username": "rien",
+      "legend_name": "Jinx, Loose Cannon",
+      "deck_id": "17a6cdca-f2ff-4b10-b48e-99f2b9fd93eb",
+      "has_decklist": true
+    },
+    {
+      "place": 22,
+      "username": "Feynman F",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "7a0aca59-149c-47b8-9558-19cd391cabba",
+      "has_decklist": true
+    },
+    {
+      "place": 23,
+      "username": "TinyXTheXGiant",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "b9adc0a6-53bf-4837-870a-716bd6b1655c",
+      "has_decklist": true
+    },
+    {
+      "place": 24,
+      "username": "ImGonnaGoAFK",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "e5695e62-c85b-473c-853c-8d098e7163fa",
+      "has_decklist": true
+    },
+    {
+      "place": 25,
+      "username": "Fatpoe",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "e7a65a44-119a-4483-912f-c7ce0f3cedf6",
+      "has_decklist": true
+    },
+    {
+      "place": 26,
+      "username": "FishyLube",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "e7e5dc94-a35a-4ec8-b89f-62c58247a3db",
+      "has_decklist": true
+    },
+    {
+      "place": 27,
+      "username": "Rocklho",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "c280d392-0a39-4c4b-9167-01c6f230bacf",
+      "has_decklist": true
+    },
+    {
+      "place": 28,
+      "username": "Zile",
+      "legend_name": "Darius, Hand of Noxus",
+      "deck_id": "2b2931be-b32d-462c-9a91-a7cb49076eef",
+      "has_decklist": true
+    },
+    {
+      "place": 29,
+      "username": "keenan",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "2a84266b-fcf2-4a26-bd90-26a42e97efb8",
+      "has_decklist": true
+    },
+    {
+      "place": 30,
+      "username": "CarmenHandiego",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "aa97fbf9-f9bd-457c-94ca-4e904ebe9af7",
+      "has_decklist": true
+    },
+    {
+      "place": 31,
+      "username": "Teh Bestest One",
+      "legend_name": "Ahri, Nine-Tailed Fox",
+      "deck_id": "11d7347e-094a-47d8-a62f-d2e8a78125ea",
+      "has_decklist": true
+    },
+    {
+      "place": 32,
+      "username": "TrueDetective",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "b869c2b4-7298-4695-9045-a5f7cf72f840",
+      "has_decklist": true
+    },
+    {
+      "place": 33,
+      "username": "Dęamon",
+      "legend_name": "Lucian, Purifier",
+      "deck_id": "ac54202d-344d-41d8-ac12-8f4b0203aac8",
+      "has_decklist": false
+    },
+    {
+      "place": 34,
+      "username": "CTCG Zrob",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "8836f595-8f9d-4514-aa10-661d47ba46c1",
+      "has_decklist": true
+    },
+    {
+      "place": 35,
+      "username": "kensho",
+      "legend_name": "Sett, The Boss",
+      "deck_id": "4d74148a-f069-4eff-9dcb-825a1b284855",
+      "has_decklist": true
+    },
+    {
+      "place": 36,
+      "username": "Zwiing",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "1154236e-ba01-4e4b-9fd3-f2bcdd4b147d",
+      "has_decklist": true
+    },
+    {
+      "place": 37,
+      "username": "Caera",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "8e9c4bb5-97f7-44a8-bfd3-2a8760f24700",
+      "has_decklist": true
+    },
+    {
+      "place": 38,
+      "username": "Xapo",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "ff582228-78b4-4685-89d4-dc18a449485d",
+      "has_decklist": true
+    },
+    {
+      "place": 39,
+      "username": "RickyCasanova",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "a96cd8d3-2146-4e46-9806-c11a0b908e1b",
+      "has_decklist": true
+    },
+    {
+      "place": 40,
+      "username": "Mirru",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": "10f56af0-c2c2-4cac-94a8-b928ba2669d1",
+      "has_decklist": true
+    },
+    {
+      "place": 41,
+      "username": "CTCG Villionaire",
+      "legend_name": "Volibear, Relentless Storm",
+      "deck_id": "6ecab076-0520-4390-8afc-595d19b55f48",
+      "has_decklist": true
+    },
+    {
+      "place": 42,
+      "username": "rchaudh2",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "54568528-fb8a-4d41-ab58-05bfb8a72d12",
+      "has_decklist": true
+    },
+    {
+      "place": 43,
+      "username": "Chicas",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "26c40ec8-a9ef-4cad-8c88-0676d5e8747e",
+      "has_decklist": true
+    },
+    {
+      "place": 44,
+      "username": "VVES",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": "6a356778-adf4-4af6-9546-a43a284010ab",
+      "has_decklist": true
+    },
+    {
+      "place": 45,
+      "username": "RiftboundPlus",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "8b26b189-8b4d-4a9d-a997-7b7451356bde",
+      "has_decklist": true
+    },
+    {
+      "place": 46,
+      "username": "RiftboundTee",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "cd01a8c9-4bb4-464f-83fa-95663b2e0b40",
+      "has_decklist": true
+    },
+    {
+      "place": 47,
+      "username": "Danix",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "5c005945-2d0e-4ae5-afaa-b96455134aa3",
+      "has_decklist": false
+    },
+    {
+      "place": 48,
+      "username": "SogeKing",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "8492d1bd-6173-4ecc-9f8b-581f13b21189",
+      "has_decklist": true
+    },
+    {
+      "place": 49,
+      "username": "samdsherman",
+      "legend_name": "Lucian, Purifier",
+      "deck_id": "e70ec5b7-eb3e-43b0-9ce8-35ed0493689e",
+      "has_decklist": false
+    },
+    {
+      "place": 50,
+      "username": "his depression",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": "974103b8-1eba-45ff-9a32-b023e0484fa8",
+      "has_decklist": true
+    },
+    {
+      "place": 51,
+      "username": "Arya",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "9105adde-dcf5-47e4-9fe3-28b8193d83a2",
+      "has_decklist": true
+    },
+    {
+      "place": 52,
+      "username": "Aadesh",
+      "legend_name": "Lucian, Purifier",
+      "deck_id": "bd93038c-6717-4efc-bf85-bc08943d5c53",
+      "has_decklist": true
+    },
+    {
+      "place": 53,
+      "username": "Caravaggio8",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "c5b1c893-55d5-4b12-98a5-a000447417ca",
+      "has_decklist": true
+    },
+    {
+      "place": 54,
+      "username": "Szychu",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "1495ba1a-aa3c-4597-b110-86b8b4aea9c6",
+      "has_decklist": true
+    },
+    {
+      "place": 55,
+      "username": "perk",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "11f76bf5-5e8b-4352-be13-39133dacd75f",
+      "has_decklist": true
+    },
+    {
+      "place": 56,
+      "username": "Dokgebi",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "15ffae5e-d6f0-4d40-8354-29c3a863ede0",
+      "has_decklist": true
+    },
+    {
+      "place": 57,
+      "username": "tingfw",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "e5ff095b-3b63-4397-9652-5d17e002cf44",
+      "has_decklist": true
+    },
+    {
+      "place": 58,
+      "username": "Durantula",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "e395ffb1-045e-45a1-a791-98eda67dfd34",
+      "has_decklist": true
+    },
+    {
+      "place": 59,
+      "username": "tofuplays",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "f3009cec-d117-4807-9e1d-d52680391e27",
+      "has_decklist": true
+    },
+    {
+      "place": 60,
+      "username": "TM2",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "706da61d-df9a-404a-a2ed-56d5164b3ee2",
+      "has_decklist": true
+    },
+    {
+      "place": 61,
+      "username": "Swagyolo420yea",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": "36688733-83a9-4f91-aef0-5ad9e9b2d030",
+      "has_decklist": true
+    },
+    {
+      "place": 62,
+      "username": "Qemsu",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "fb8092df-61fb-49dd-874c-3e8ef578b83d",
+      "has_decklist": true
+    },
+    {
+      "place": 63,
+      "username": "An Qi Xu",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "9baa0dc6-472f-43e6-b7b6-1327cd7e0f38",
+      "has_decklist": true
+    },
+    {
+      "place": 64,
+      "username": "drinkmaker888",
+      "legend_name": "Lucian, Purifier",
+      "deck_id": "18d6b61f-e6ca-4efe-8f27-e832e825c79a",
+      "has_decklist": true
+    }
   ]
 }

@@ -1,0 +1,140 @@
+{
+  "deck_id": "18d6b61f-e6ca-4efe-8f27-e832e825c79a",
+  "deck_name": "Lucian Last Spirit",
+  "event_id": 502327,
+  "event_name": "Riftbound Regional Qualifier: Atlanta",
+  "date": "2026-04-25",
+  "place": 64,
+  "username": "drinkmaker888",
+  "legend_name": "Lucian, Purifier",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Legion Rearguard",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Relentless Pursuit",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

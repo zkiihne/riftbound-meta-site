@@ -1,0 +1,140 @@
+{
+  "deck_id": "81762a54-0899-4abd-807d-069f09024c93",
+  "deck_name": "Rek'Sai",
+  "event_id": 501773,
+  "event_name": "Riftbound Regional Qualifier: Lille",
+  "date": "2026-04-18",
+  "place": 34,
+  "username": "xTacio",
+  "legend_name": "Rek'Sai, Void Burrower",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Daring Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vanguard Captain",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Void Hatchling",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Undertitan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Void Rush",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

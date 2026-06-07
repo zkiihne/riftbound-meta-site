@@ -1,0 +1,183 @@
+{
+  "deck_id": "577daea7-8372-427b-9453-4b7059f6a652",
+  "deck_name": "Poopy",
+  "event_id": 600265,
+  "event_name": "Riftbound Regional Qualifier - Vancouver",
+  "date": "2026-05-30",
+  "place": 35,
+  "username": "TSS NoVeggies",
+  "legend_name": "Poppy, Keeper of the Hammer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Flurry of Blades",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Blood Money",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Vanguard Armory",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rift Herald",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "The Ruination",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "section_type": "champion",
+      "cards": [
+        {
+          "name": "Poppy, Paragon",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "section_type": "legend",
+      "cards": [
+        {
+          "name": "Poppy, Keeper of the Hammer",
+          "quantity": 1,
+          "type": "Legend"
+        }
+      ]
+    },
+    {
+      "name": "Battlefields",
+      "section_type": "battlefield",
+      "cards": [
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "type": "Battlefield"
+        }
+      ]
+    }
+  ]
+}

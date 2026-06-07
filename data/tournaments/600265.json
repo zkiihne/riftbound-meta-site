@@ -364,5 +364,455 @@
       "excess": -1.84,
       "best_place": 68
     }
+  ],
+  "t64_players": [
+    {
+      "place": 1,
+      "username": "CTG Alanzq",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": "0fb4e7d6-e7d5-4c31-ba59-51103dfeb6a2",
+      "has_decklist": true
+    },
+    {
+      "place": 2,
+      "username": "samdsherman",
+      "legend_name": "Rengar, Pridestalker",
+      "deck_id": "cbe63014-9cb4-46e3-916f-f1665b55aaa8",
+      "has_decklist": true
+    },
+    {
+      "place": 3,
+      "username": "TSS housesarebig",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "5646abc1-e01a-40f7-ad7d-c65b2ea114ae",
+      "has_decklist": true
+    },
+    {
+      "place": 4,
+      "username": "Dhawally",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": "8721a719-2086-42f1-91f1-8ed26b80099b",
+      "has_decklist": true
+    },
+    {
+      "place": 5,
+      "username": "Rocklho",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "f71213d1-0bb6-421a-b337-8f3537cefd62",
+      "has_decklist": true
+    },
+    {
+      "place": 6,
+      "username": "Arito",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "ff8669a3-5eb4-415a-9ece-17b9b0326a2c",
+      "has_decklist": true
+    },
+    {
+      "place": 7,
+      "username": "Swagyolo420yea",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": "c357484a-a386-4e36-b2c5-76ecd5673c26",
+      "has_decklist": true
+    },
+    {
+      "place": 8,
+      "username": "BaoBaoaz",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "ff007fed-9c58-426f-903b-10b1aee54f49",
+      "has_decklist": true
+    },
+    {
+      "place": 9,
+      "username": "Ddragon999",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "e3f67a15-9074-408b-a33b-116e7423b7c5",
+      "has_decklist": true
+    },
+    {
+      "place": 10,
+      "username": "Prismaticismism",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "4de38e3d-7aba-46f7-a4bc-d89f72816891",
+      "has_decklist": true
+    },
+    {
+      "place": 11,
+      "username": "wysley",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "15958a47-3162-4f38-9f41-38f22f768006",
+      "has_decklist": false
+    },
+    {
+      "place": 12,
+      "username": "Ricemaster",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": "d46e11cc-6c2d-464b-86e3-8ebb48656e84",
+      "has_decklist": true
+    },
+    {
+      "place": 13,
+      "username": "JDW",
+      "legend_name": "Rengar, Pridestalker",
+      "deck_id": "88efb5df-a08c-4c13-8a47-cecaded63150",
+      "has_decklist": true
+    },
+    {
+      "place": 14,
+      "username": "vAzn",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "72812406-055c-4f7a-bc8a-53bbb1b548aa",
+      "has_decklist": true
+    },
+    {
+      "place": 15,
+      "username": "Sinzari",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "5179c9ea-a937-461f-9d62-7cd70551f26a",
+      "has_decklist": true
+    },
+    {
+      "place": 16,
+      "username": "HXN Gonkra",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "3547b215-0b4b-4bfb-93fc-36caaa2c379b",
+      "has_decklist": true
+    },
+    {
+      "place": 17,
+      "username": "KGo",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "87b41774-c474-4cfd-98da-cb172194fa01",
+      "has_decklist": true
+    },
+    {
+      "place": 18,
+      "username": "Paggit",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "d13d2e7a-4c5c-45a1-9b2a-09738ae45ced",
+      "has_decklist": true
+    },
+    {
+      "place": 19,
+      "username": "Sirch",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "18a6b23b-c057-4ed6-a68a-fcdb3a9858d3",
+      "has_decklist": false
+    },
+    {
+      "place": 20,
+      "username": "Ryan Ferries",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": "de0b4446-5cd9-4319-a8d8-b531dc3d89dc",
+      "has_decklist": true
+    },
+    {
+      "place": 21,
+      "username": "Riuzake",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": "3f2e2512-0a90-423c-ac7f-ef71bc5f3b7e",
+      "has_decklist": true
+    },
+    {
+      "place": 22,
+      "username": "Fatpoe",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "9567f68c-d236-4610-982b-63494753f0a6",
+      "has_decklist": true
+    },
+    {
+      "place": 23,
+      "username": "RoyY",
+      "legend_name": "Pyke, Bloodharbor Ripper",
+      "deck_id": "3bf5d27b-9a96-48d5-9e5c-1b20acb6f1ad",
+      "has_decklist": true
+    },
+    {
+      "place": 24,
+      "username": "CTCG Alex",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "7dd5cf86-0d91-4d30-aceb-0092d7531f40",
+      "has_decklist": true
+    },
+    {
+      "place": 25,
+      "username": "PocketMith",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": "6290b055-03c8-4115-89f7-8afe6ac94fde",
+      "has_decklist": true
+    },
+    {
+      "place": 26,
+      "username": "CTCG Zrob",
+      "legend_name": "Kha'Zix, Voidreaver",
+      "deck_id": "82b09c5a-6394-4086-a073-dc3e3b6a4d15",
+      "has_decklist": true
+    },
+    {
+      "place": 27,
+      "username": "slabshark2025",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": "7b416537-78cd-450f-8225-27f5a4e20aac",
+      "has_decklist": true
+    },
+    {
+      "place": 28,
+      "username": "bakedkale",
+      "legend_name": "Rengar, Pridestalker",
+      "deck_id": "fe1b7802-21ec-4566-959f-03f22b9da1ab",
+      "has_decklist": true
+    },
+    {
+      "place": 29,
+      "username": "asiptofu",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "637df239-4d14-4784-a452-912bc9ad5bf7",
+      "has_decklist": true
+    },
+    {
+      "place": 30,
+      "username": "Feynman F",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "a299470d-c990-4dd3-904b-92a81c8c4d61",
+      "has_decklist": true
+    },
+    {
+      "place": 31,
+      "username": "Yoshi",
+      "legend_name": "Rengar, Pridestalker",
+      "deck_id": "0b65a995-b801-4aee-a588-0f02f3189130",
+      "has_decklist": true
+    },
+    {
+      "place": 32,
+      "username": "SketchyMan36",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "54909002-f692-4ec0-92f2-febc2e2f24e2",
+      "has_decklist": true
+    },
+    {
+      "place": 33,
+      "username": "rRat69ly",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "e7daaa92-1491-473c-8002-bd06d7173f12",
+      "has_decklist": true
+    },
+    {
+      "place": 34,
+      "username": "ThunderTrees",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "910b3e34-af0c-4293-99ef-1ec85da7a015",
+      "has_decklist": true
+    },
+    {
+      "place": 35,
+      "username": "TSS NoVeggies",
+      "legend_name": "Poppy, Keeper of the Hammer",
+      "deck_id": "577daea7-8372-427b-9453-4b7059f6a652",
+      "has_decklist": true
+    },
+    {
+      "place": 36,
+      "username": "matcharuzu",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": "8bf11f7b-bcc0-4773-ac5f-dd95de3ed117",
+      "has_decklist": true
+    },
+    {
+      "place": 37,
+      "username": "Bolun Zhang",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": "45dc0fd1-da7e-4442-9d5b-5a8eb9fe1533",
+      "has_decklist": true
+    },
+    {
+      "place": 38,
+      "username": "DareMx",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "34d2d1f2-cce2-4f27-91a4-023054d5cd70",
+      "has_decklist": true
+    },
+    {
+      "place": 39,
+      "username": "Serkesul",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": "6034cc9f-3715-4cb4-81d4-68c4b77862a6",
+      "has_decklist": true
+    },
+    {
+      "place": 40,
+      "username": "perk",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "bde1229c-f545-411d-8503-f5b2da42780b",
+      "has_decklist": true
+    },
+    {
+      "place": 41,
+      "username": "Anzid To Win",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": "884055da-682c-412c-86f8-55f9f4026853",
+      "has_decklist": true
+    },
+    {
+      "place": 42,
+      "username": "justcuz",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "1df1ab09-2af3-4ec9-a3f3-b358cfc4f97e",
+      "has_decklist": true
+    },
+    {
+      "place": 43,
+      "username": "Fr0zen",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": "e8fc75b1-6a81-4c33-a773-d2f93d680281",
+      "has_decklist": true
+    },
+    {
+      "place": 44,
+      "username": "POG CHUNGUS",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": "434d96d7-f19a-405a-a1a8-c804ec922e7b",
+      "has_decklist": true
+    },
+    {
+      "place": 45,
+      "username": "Blade",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": "f01233b9-41a8-451d-8a82-be99fa52ac08",
+      "has_decklist": false
+    },
+    {
+      "place": 46,
+      "username": "Powlow",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "faa777a5-156a-4032-8f97-a6fc553e93b3",
+      "has_decklist": true
+    },
+    {
+      "place": 47,
+      "username": "i6bochen12",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "77ee4ad7-075c-4960-b59c-13d26aced10a",
+      "has_decklist": true
+    },
+    {
+      "place": 48,
+      "username": "CTCG Koko Lopez",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "6cf7fb52-3ad6-486b-8253-f618305fd3c4",
+      "has_decklist": true
+    },
+    {
+      "place": 49,
+      "username": "cmeks",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "d7b0c80c-cf92-4e16-9e05-148ff226945c",
+      "has_decklist": true
+    },
+    {
+      "place": 50,
+      "username": "Kitzuo",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": "932be80f-75c1-41fa-91d8-be4d5a5a134a",
+      "has_decklist": true
+    },
+    {
+      "place": 51,
+      "username": "Zaboomafoo",
+      "legend_name": "Rek'Sai, Void Burrower",
+      "deck_id": "08661519-6153-46c9-8771-48188291252e",
+      "has_decklist": true
+    },
+    {
+      "place": 52,
+      "username": "lets see lol",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "02c9e72a-8189-4df6-a7e5-3898d5fc5f1b",
+      "has_decklist": false
+    },
+    {
+      "place": 53,
+      "username": "Leseandre",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "504105a4-2d44-4b63-affe-ce4506b0b839",
+      "has_decklist": true
+    },
+    {
+      "place": 54,
+      "username": "Hfang",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": "82760335-b9bd-4698-83d7-24685867871c",
+      "has_decklist": true
+    },
+    {
+      "place": 55,
+      "username": "MrMordekaiser",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "394aa741-71e3-4bfd-8a7a-26e1b7b14d30",
+      "has_decklist": true
+    },
+    {
+      "place": 56,
+      "username": "Apexy",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": "6e209ac0-2702-47b6-805d-68c590cfcc7b",
+      "has_decklist": true
+    },
+    {
+      "place": 57,
+      "username": "Talion",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": "62f9802f-ec3a-49fd-9a06-706680cd4802",
+      "has_decklist": true
+    },
+    {
+      "place": 58,
+      "username": "Supreme",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": "80930bda-f3fe-44de-8abd-55cd1784c00f",
+      "has_decklist": true
+    },
+    {
+      "place": 59,
+      "username": "DrRickMarshallWe",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": "c3a8a4e3-95f3-4016-8383-9e64aca81a57",
+      "has_decklist": false
+    },
+    {
+      "place": 60,
+      "username": "tingfw",
+      "legend_name": "Lux, Lady of Luminosity",
+      "deck_id": "6c362b78-8c08-4e26-abeb-d47e5151a87f",
+      "has_decklist": true
+    },
+    {
+      "place": 61,
+      "username": "Voidliss",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": "8c54ddc8-9358-4c53-b885-54a8a8610ccf",
+      "has_decklist": true
+    },
+    {
+      "place": 62,
+      "username": "Maxx C",
+      "legend_name": "Kai'Sa, Daughter of the Void",
+      "deck_id": "8595004b-823c-4b03-a4d8-721d3e22bf05",
+      "has_decklist": true
+    },
+    {
+      "place": 63,
+      "username": "Gorica",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": "eb9a21b2-a9b1-4eba-bb88-0632a300e101",
+      "has_decklist": true
+    },
+    {
+      "place": 64,
+      "username": "lunasky",
+      "legend_name": "Teemo, Swift Scout",
+      "deck_id": "53633497-52e2-41dc-83e9-478717ea71e2",
+      "has_decklist": true
+    }
   ]
 }
