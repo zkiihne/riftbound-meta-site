@@ -38,7 +38,7 @@ function shortEvent(name: string) {
 }
 
 interface DeckEntry {
-  deck_id: string;
+  deck_id: string | null;
   place: number;
   username: string;
   legend_name: string;
@@ -69,12 +69,10 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
     });
   }, [legends, sortKey, sortDir]);
 
-  // Build map: legend_name → deck entries across selected events
   const decksByLegend = useMemo(() => {
     const map = new Map<string, DeckEntry[]>();
     for (const t of selectedTournaments) {
       for (const p of t.t64_players) {
-        if (!p.has_decklist) continue;
         const list = map.get(p.legend_name) ?? [];
         list.push({
           deck_id: p.deck_id,
@@ -86,7 +84,6 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
         map.set(p.legend_name, list);
       }
     }
-    // Sort each list by place
     for (const [, entries] of map) {
       entries.sort((a, b) => a.place - b.place);
     }
@@ -120,7 +117,7 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
             >
               {label}
               {active && (
-                <span className="ml-1 text-emerald-400">
+                <span aria-hidden="true" className="ml-1 text-emerald-400">
                   {sortDir === "asc" ? "↑" : "↓"}
                 </span>
               )}
@@ -129,15 +126,22 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
         })}
       </div>
 
-      <div className="flex flex-col gap-2">
-        {sorted.map((l) => (
-          <ChampionCard
-            key={l.name}
-            legend={l}
-            decks={decksByLegend.get(l.name) ?? []}
-          />
-        ))}
-      </div>
+      {sorted.length === 0 ? (
+        <p className="text-zinc-500 text-sm py-12 text-center">
+          No legends match your filters.
+        </p>
+      ) : (
+        <div className="flex flex-col gap-2">
+          {sorted.map((l) => (
+            <ChampionCard
+              key={l.name}
+              legend={l}
+              decks={decksByLegend.get(l.name) ?? []}
+              sortKey={sortKey}
+            />
+          ))}
+        </div>
+      )}
     </div>
   );
 }
@@ -145,9 +149,11 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
 function ChampionCard({
   legend: l,
   decks,
+  sortKey,
 }: {
   legend: LegendStats;
   decks: DeckEntry[];
+  sortKey: SortKey;
 }) {
   const [expanded, setExpanded] = useState(false);
   const hasDecklists = decks.length > 0;
@@ -156,15 +162,33 @@ function ChampionCard({
     <div
       className={`rounded-lg border bg-zinc-900/60 ${excessBorder(l.excess)}`}
     >
-      {/* Stats row — clickable if decklists exist */}
       <div
         role={hasDecklists ? "button" : undefined}
+        tabIndex={hasDecklists ? 0 : undefined}
+        aria-expanded={hasDecklists ? expanded : undefined}
         onClick={hasDecklists ? () => setExpanded((e) => !e) : undefined}
-        className={`px-5 py-4 flex items-center gap-6 ${hasDecklists ? "cursor-pointer hover:bg-zinc-800/30 transition-colors" : ""}`}
+        onKeyDown={
+          hasDecklists
+            ? (e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  setExpanded((e) => !e);
+                }
+              }
+            : undefined
+        }
+        className={`px-4 sm:px-5 py-3 sm:py-4 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 ${
+          hasDecklists
+            ? "cursor-pointer hover:bg-zinc-800/30 transition-colors"
+            : "opacity-75"
+        }`}
       >
         <div className="min-w-0 flex-1 flex items-center gap-2">
           {hasDecklists && (
-            <span className="text-zinc-600 text-xs w-3 shrink-0">
+            <span
+              aria-hidden="true"
+              className="text-zinc-400 text-xs w-3 shrink-0"
+            >
               {expanded ? "▼" : "▶"}
             </span>
           )}
@@ -176,32 +200,36 @@ function ChampionCard({
               {l.name.split(",").slice(1).join(",").trim()}
             </span>
           </div>
-          {hasDecklists && (
-            <span className="text-zinc-600 text-xs ml-1">
-              {decks.length} list{decks.length !== 1 ? "s" : ""}
+          {hasDecklists ? (
+            <span className="ml-auto text-zinc-200 text-sm font-semibold tabular-nums shrink-0">
+              {decks.length}
             </span>
+          ) : (
+            <span className="ml-auto text-zinc-700 text-xs shrink-0">no lists</span>
           )}
         </div>
-        <div className="flex items-center gap-6 shrink-0 text-xs tabular-nums">
+        <div className="flex items-center justify-between gap-y-1.5 text-xs tabular-nums w-full sm:w-72">
           <div className="text-center">
-            <div className="text-zinc-500 mb-0.5">Conv%</div>
-            <div className="text-zinc-100 font-semibold">{l.conv_pct.toFixed(1)}%</div>
+            <div className={`mb-0.5 ${sortKey === "conv_pct" ? "text-emerald-500" : "text-zinc-500"}`}>Conv%</div>
+            <div className={`font-semibold ${sortKey === "conv_pct" ? "text-emerald-400" : "text-zinc-100"}`}>
+              {l.conv_pct.toFixed(1)}%
+            </div>
           </div>
           <div className="text-center">
-            <div className="text-zinc-500 mb-0.5">Top 64</div>
-            <div className="text-zinc-100 font-semibold">{l.t64}</div>
+            <div className={`mb-0.5 ${sortKey === "t64" ? "text-emerald-500" : "text-zinc-500"}`}>Top 64</div>
+            <div className={`font-semibold ${sortKey === "t64" ? "text-emerald-400" : "text-zinc-100"}`}>{l.t64}</div>
           </div>
           <div className="text-center">
-            <div className="text-zinc-500 mb-0.5">Field</div>
-            <div className="text-zinc-300">{l.field}</div>
+            <div className={`mb-0.5 ${sortKey === "field" ? "text-emerald-500" : "text-zinc-500"}`}>Field</div>
+            <div className={`${sortKey === "field" ? "text-emerald-400 font-semibold" : "text-zinc-300"}`}>{l.field}</div>
           </div>
           <div className="text-center">
-            <div className="text-zinc-500 mb-0.5">Best</div>
-            <div className="text-zinc-300">{ordinal(l.best_place)}</div>
+            <div className={`mb-0.5 ${sortKey === "best_place" ? "text-emerald-500" : "text-zinc-500"}`}>Best</div>
+            <div className={`${sortKey === "best_place" ? "text-emerald-400 font-semibold" : "text-zinc-300"}`}>{ordinal(l.best_place)}</div>
           </div>
           <div className="text-center">
-            <div className="text-zinc-500 mb-0.5">Excess</div>
-            <div className={`font-semibold ${excessColor(l.excess)}`}>
+            <div className={`mb-0.5 ${sortKey === "excess" ? "text-emerald-500" : "text-zinc-500"}`}>Excess</div>
+            <div className={`font-semibold ${sortKey === "excess" ? excessColor(l.excess) : "text-zinc-300"}`}>
               {l.excess > 0 ? "+" : ""}
               {l.excess.toFixed(2)}
             </div>
@@ -209,11 +237,10 @@ function ChampionCard({
         </div>
       </div>
 
-      {/* Decklists */}
       {expanded && (
         <div className="border-t border-zinc-800/60 divide-y divide-zinc-800/40">
-          {decks.map((d) => (
-            <DeckRow key={d.deck_id} entry={d} />
+          {decks.map((d, i) => (
+            <DeckRow key={d.deck_id ?? `${d.event_name}-${i}`} entry={d} />
           ))}
         </div>
       )}
@@ -225,8 +252,10 @@ function DeckRow({ entry }: { entry: DeckEntry }) {
   const [open, setOpen] = useState(false);
   const [deck, setDeck] = useState<DecklistData | null>(null);
   const [loading, setLoading] = useState(false);
+  const hasList = !!entry.deck_id;
 
   async function toggle() {
+    if (!hasList) return;
     if (!open && !deck) {
       setLoading(true);
       const res = await fetch(`/api/deck/${entry.deck_id}`);
@@ -242,25 +271,37 @@ function DeckRow({ entry }: { entry: DeckEntry }) {
       <div className="w-full px-5 py-2.5 flex items-center gap-3 text-xs hover:bg-zinc-800/40 transition-colors">
         <button
           onClick={toggle}
-          className="flex items-center gap-3 flex-1 text-left min-w-0"
+          disabled={!hasList}
+          className={`flex items-center gap-3 flex-1 text-left min-w-0 ${!hasList ? "cursor-default" : ""}`}
         >
-          <span className="text-zinc-600 w-3 shrink-0">{open ? "▼" : "▶"}</span>
+          <span aria-hidden="true" className={`w-3 shrink-0 ${hasList ? "text-zinc-400" : "text-zinc-700"}`}>
+            {hasList ? (open ? "▼" : "▶") : "–"}
+          </span>
           <span className="text-emerald-400 tabular-nums w-10 shrink-0">
             {ordinal(entry.place)}
           </span>
-          <span className="text-zinc-300 font-medium shrink-0">{entry.username}</span>
-          <span className="text-zinc-500 shrink-0">{entry.legend_name}</span>
-          <span className="text-zinc-600 ml-auto shrink-0">{shortEvent(entry.event_name)}</span>
-          {loading && <span className="text-zinc-600 animate-pulse">…</span>}
+          <span className="text-zinc-300 font-medium shrink-0">
+            {entry.username}
+          </span>
+          <span className="text-zinc-600 ml-auto shrink-0">
+            {shortEvent(entry.event_name)}
+          </span>
+          {loading && (
+            <span aria-live="polite" className="text-zinc-500 animate-pulse">
+              Loading…
+            </span>
+          )}
         </button>
-        <Link
-          href={`/deck/${entry.deck_id}`}
-          onClick={(e) => e.stopPropagation()}
-          className="text-zinc-600 hover:text-emerald-400 transition-colors shrink-0 ml-2"
-          title="View full decklist"
-        >
-          ↗
-        </Link>
+        {hasList && (
+          <Link
+            href={`/deck/${entry.deck_id}`}
+            onClick={(e) => e.stopPropagation()}
+            aria-label={`View full decklist for ${entry.username}`}
+            className="p-2 -mr-2 text-zinc-500 hover:text-emerald-400 transition-colors shrink-0"
+          >
+            <span aria-hidden="true">↗</span>
+          </Link>
+        )}
       </div>
 
       {open && deck && (
@@ -272,7 +313,12 @@ function DeckRow({ entry }: { entry: DeckEntry }) {
   );
 }
 
-function DeckCards({ deck }: { deck: DecklistData }) {
+function DeckCards({ deck }: { deck: DecklistData; }) {
+  const legendCard: DecklistData["sections"][0]["cards"][0] = {
+    name: deck.legend_name,
+    quantity: 1,
+    type: "Legend",
+  };
   const typeOrder = ["Legend", "Unit", "Spell", "Rune", "Other"];
 
   const mainSection = deck.sections.find((s) => s.section_type === "main");
@@ -298,13 +344,13 @@ function DeckCards({ deck }: { deck: DecklistData }) {
 
     return (
       <div className="mb-3">
-        <div className="text-zinc-600 text-xs mb-2">
+        <div className="text-zinc-500 text-xs mb-2">
           {label} · {total}
         </div>
         <div className="space-y-2">
           {sorted.map(([type, cards]) => (
             <div key={type}>
-              <div className="text-zinc-700 text-xs mb-1">{type}</div>
+              <div className="text-zinc-500 text-xs mb-1">{type}</div>
               {cards.map((c) => (
                 <div
                   key={c.name}
@@ -324,10 +370,9 @@ function DeckCards({ deck }: { deck: DecklistData }) {
   }
 
   return (
-    <div className="ml-4 border-l border-zinc-800 pl-4 mt-1">
+    <div className="border-l border-zinc-800/50 pl-3 mt-1">
       {mainSection &&
-        mainSection.cards.length > 0 &&
-        renderSection(mainSection.cards, "Main Deck")}
+        renderSection([legendCard, ...mainSection.cards], "Main Deck")}
       {sideSection &&
         sideSection.cards.length > 0 &&
         renderSection(sideSection.cards, "Sideboard")}
