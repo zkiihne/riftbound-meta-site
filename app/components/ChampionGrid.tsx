@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Link from "next/link";
 import type { LegendStats, TournamentData, DecklistData } from "@/lib/types";
 
 type SortKey = "conv_pct" | "field" | "t64" | "excess" | "best_place";
@@ -40,6 +41,7 @@ interface DeckEntry {
   deck_id: string;
   place: number;
   username: string;
+  legend_name: string;
   event_name: string;
 }
 
@@ -78,6 +80,7 @@ export default function ChampionGrid({ legends, selectedTournaments }: Props) {
           deck_id: p.deck_id,
           place: p.place,
           username: p.username,
+          legend_name: p.legend_name,
           event_name: t.event_name,
         });
         map.set(p.legend_name, list);
@@ -146,19 +149,38 @@ function ChampionCard({
   legend: LegendStats;
   decks: DeckEntry[];
 }) {
+  const [expanded, setExpanded] = useState(false);
+  const hasDecklists = decks.length > 0;
+
   return (
     <div
       className={`rounded-lg border bg-zinc-900/60 ${excessBorder(l.excess)}`}
     >
-      {/* Stats row */}
-      <div className="px-5 py-4 flex items-center gap-6">
-        <div className="min-w-0 flex-1">
-          <span className="text-zinc-100 font-semibold text-sm">
-            {l.name.split(",")[0]}
-          </span>
-          <span className="text-zinc-500 text-xs ml-2">
-            {l.name.split(",").slice(1).join(",").trim()}
-          </span>
+      {/* Stats row — clickable if decklists exist */}
+      <div
+        role={hasDecklists ? "button" : undefined}
+        onClick={hasDecklists ? () => setExpanded((e) => !e) : undefined}
+        className={`px-5 py-4 flex items-center gap-6 ${hasDecklists ? "cursor-pointer hover:bg-zinc-800/30 transition-colors" : ""}`}
+      >
+        <div className="min-w-0 flex-1 flex items-center gap-2">
+          {hasDecklists && (
+            <span className="text-zinc-600 text-xs w-3 shrink-0">
+              {expanded ? "▼" : "▶"}
+            </span>
+          )}
+          <div>
+            <span className="text-zinc-100 font-semibold text-sm">
+              {l.name.split(",")[0]}
+            </span>
+            <span className="text-zinc-500 text-xs ml-2">
+              {l.name.split(",").slice(1).join(",").trim()}
+            </span>
+          </div>
+          {hasDecklists && (
+            <span className="text-zinc-600 text-xs ml-1">
+              {decks.length} list{decks.length !== 1 ? "s" : ""}
+            </span>
+          )}
         </div>
         <div className="flex items-center gap-6 shrink-0 text-xs tabular-nums">
           <div className="text-center">
@@ -188,7 +210,7 @@ function ChampionCard({
       </div>
 
       {/* Decklists */}
-      {decks.length > 0 && (
+      {expanded && (
         <div className="border-t border-zinc-800/60 divide-y divide-zinc-800/40">
           {decks.map((d) => (
             <DeckRow key={d.deck_id} entry={d} />
@@ -217,18 +239,29 @@ function DeckRow({ entry }: { entry: DeckEntry }) {
 
   return (
     <div>
-      <button
-        onClick={toggle}
-        className="w-full px-5 py-2.5 flex items-center gap-3 text-xs hover:bg-zinc-800/40 transition-colors text-left"
-      >
-        <span className="text-zinc-600 w-3">{open ? "▼" : "▶"}</span>
-        <span className="text-emerald-400 tabular-nums w-10 shrink-0">
-          {ordinal(entry.place)}
-        </span>
-        <span className="text-zinc-300 font-medium">{entry.username}</span>
-        <span className="text-zinc-600 ml-auto">{shortEvent(entry.event_name)}</span>
-        {loading && <span className="text-zinc-600 animate-pulse">…</span>}
-      </button>
+      <div className="w-full px-5 py-2.5 flex items-center gap-3 text-xs hover:bg-zinc-800/40 transition-colors">
+        <button
+          onClick={toggle}
+          className="flex items-center gap-3 flex-1 text-left min-w-0"
+        >
+          <span className="text-zinc-600 w-3 shrink-0">{open ? "▼" : "▶"}</span>
+          <span className="text-emerald-400 tabular-nums w-10 shrink-0">
+            {ordinal(entry.place)}
+          </span>
+          <span className="text-zinc-300 font-medium shrink-0">{entry.username}</span>
+          <span className="text-zinc-500 shrink-0">{entry.legend_name}</span>
+          <span className="text-zinc-600 ml-auto shrink-0">{shortEvent(entry.event_name)}</span>
+          {loading && <span className="text-zinc-600 animate-pulse">…</span>}
+        </button>
+        <Link
+          href={`/deck/${entry.deck_id}`}
+          onClick={(e) => e.stopPropagation()}
+          className="text-zinc-600 hover:text-emerald-400 transition-colors shrink-0 ml-2"
+          title="View full decklist"
+        >
+          ↗
+        </Link>
+      </div>
 
       {open && deck && (
         <div className="px-5 pb-4 pt-1">
