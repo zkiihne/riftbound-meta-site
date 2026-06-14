@@ -1,0 +1,140 @@
+{
+  "deck_id": "20bcae10-3de8-43b8-96af-2b804fdf84f3",
+  "deck_name": "Viktor Midrange",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 52,
+  "username": "TSS mastershien",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Deadly Flourish",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Safety Inspector",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Order Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Safety Inspector",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

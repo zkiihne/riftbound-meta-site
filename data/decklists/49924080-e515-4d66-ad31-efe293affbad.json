@@ -1,0 +1,160 @@
+{
+  "deck_id": "49924080-e515-4d66-ad31-efe293affbad",
+  "deck_name": "Master Yi Midrange",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 54,
+  "username": "ECL SargonVito",
+  "legend_name": "Master Yi, Wuju Bladesman",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Whiteflame Protector",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Alpha Strike",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vilemaw",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "deck_id": "0d6694c6-c585-4dfd-9198-6228d2ecf02a",
+  "deck_name": "Viktor",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 18,
+  "username": "Trentbrennt",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Blood Money",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Crescent Strike",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Deadly Flourish",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Safety Inspector",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Vanguard Armory",
+          "quantity": 2,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 3,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

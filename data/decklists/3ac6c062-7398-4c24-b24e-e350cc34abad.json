@@ -1,0 +1,145 @@
+{
+  "deck_id": "3ac6c062-7398-4c24-b24e-e350cc34abad",
+  "deck_name": "Pre-Regional Challenge - RQ Utrecht Friday 1pm Jose Angel M Deck Submission",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 26,
+  "username": "MICE Dr Mateo",
+  "legend_name": "Azir, Emperor of the Sands",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Soul Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Arise!",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Back Off",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

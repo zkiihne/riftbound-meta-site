@@ -66,19 +66,24 @@ export default async function DeckPage({
             {shortEvent(deck.event_name)} · {deck.date}
           </div>
           {deck.deck_name && deck.deck_name !== "New Deck" && (
-            <div className="text-zinc-600 text-xs mt-1 italic">
+            <div className="text-zinc-400 text-xs mt-1 italic">
               &ldquo;{deck.deck_name}&rdquo;
             </div>
           )}
         </div>
 
         {/* Main deck */}
-        {mainSection && mainSection.cards.length > 0 && (
+        {mainSection && (
           <div className="mb-6">
             <div className="text-zinc-400 text-xs font-medium uppercase tracking-wider mb-3">
               Main Deck ({mainSection.cards.reduce((s, c) => s + c.quantity, 0)} cards)
             </div>
-            <CardList cards={mainSection.cards} />
+            <CardList
+              cards={[
+                { name: deck.legend_name, quantity: 1, type: "Legend" },
+                ...mainSection.cards,
+              ]}
+            />
           </div>
         )}
 
@@ -124,7 +129,7 @@ function CardList({
     <div className="space-y-4">
       {sorted.map(([type, cards]) => (
         <div key={type}>
-          <div className="text-zinc-600 text-xs mb-1.5">{type}</div>
+          <div className="text-zinc-500 text-xs mb-1.5">{type}</div>
           <div className="space-y-0.5">
             {cards.map((card) => (
               <div

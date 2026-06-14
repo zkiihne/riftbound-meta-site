@@ -1,0 +1,140 @@
+{
+  "deck_id": "4b18dc72-b7e3-4158-aecd-52103c3c1138",
+  "deck_name": "Shurima Unleashed",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 1,
+  "username": "Squirtle",
+  "legend_name": "Azir, Emperor of the Sands",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Arise!",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Soul Sword",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Back Off",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

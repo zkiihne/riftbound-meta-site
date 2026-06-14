@@ -59,7 +59,7 @@ export interface T64Player {
   place: number;
   username: string;
   legend_name: string;
-  deck_id: string;
+  deck_id: string | null;
   has_decklist: boolean;
 }
 
@@ -144,7 +144,7 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
 
   // Collect T64 players sorted by place
   const t64Raw = players
-    .filter((p) => p.final_place_in_standings <= 64 && p.deck_id)
+    .filter((p) => p.final_place_in_standings <= 64)
     .sort((a, b) => a.final_place_in_standings - b.final_place_in_standings);
 
   console.log(`  Fetching decklists for ${t64Raw.length} T64 players…`);
@@ -152,7 +152,7 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
   const date = event.start_datetime.slice(0, 10);
 
   for (const p of t64Raw) {
-    const deck = await fetchDecklist(p.deck_id as string);
+    const deck = p.deck_id ? await fetchDecklist(p.deck_id) : null;
     const has_decklist = deck !== null;
 
     if (has_decklist && deck) {
@@ -189,7 +189,7 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
       place: p.final_place_in_standings,
       username: p.username,
       legend_name: p.legend_name as string,
-      deck_id: p.deck_id as string,
+      deck_id: p.deck_id,
       has_decklist,
     });
 
@@ -216,8 +216,14 @@ async function main() {
 
   console.log("Fetching event list...");
   const events = await fetchJson<RawEvent[]>(`${API_BASE}/events`);
-  const complete = events.filter((e) => e.display_status === "complete");
-  console.log(`Found ${complete.length} completed events`);
+  // Include "complete" events, plus "inProgress" events whose standings are
+  // already fully resolved (the tracker is slow to flip status to complete).
+  const complete = events.filter(
+    (e) =>
+      e.display_status === "complete" ||
+      (e.display_status === "inProgress" && e.starting_player_count > 0)
+  );
+  console.log(`Found ${complete.length} events to process`);
 
   const index: EventMeta[] = [];
 

@@ -1,0 +1,140 @@
+{
+  "deck_id": "f12125c8-0280-48ef-93ed-2b234bdf5403",
+  "deck_name": "Riftbound Regional Qualifier - Utrecht Marco H Deck Submission",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 46,
+  "username": "HektorTcg",
+  "legend_name": "LeBlanc, Deceiver",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Mirror Image",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Karthus, Eternal",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Black Rose Dignitary",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruined Rex",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Rift Herald",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 3,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 8,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Safety Inspector",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Mirror Image",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

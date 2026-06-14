@@ -1,0 +1,145 @@
+{
+  "deck_id": "595e36de-50a5-4b54-b535-474b9dbc8567",
+  "deck_name": "Lux combo",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 28,
+  "username": "Sanan",
+  "legend_name": "Lux, Lady of Luminosity",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Burst",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sumpworks Map",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "The Ruination",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Promising Future",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

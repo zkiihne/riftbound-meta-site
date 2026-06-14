@@ -6,14 +6,26 @@ import type { LegendStats } from "@/lib/types";
 type SortKey = keyof Omit<LegendStats, "name">;
 type SortDir = "asc" | "desc";
 
-const COLUMNS: { key: SortKey | "name"; label: string; align: "left" | "right" }[] = [
+const COLUMNS: {
+  key: SortKey | "name";
+  label: string;
+  align: "left" | "right";
+  title?: string;
+  mobileHidden?: boolean;
+}[] = [
   { key: "name", label: "Legend", align: "left" },
-  { key: "field", label: "Field", align: "right" },
-  { key: "t64", label: "T64", align: "right" },
   { key: "conv_pct", label: "Conv%", align: "right" },
-  { key: "expected", label: "Expected", align: "right" },
   { key: "excess", label: "Excess", align: "right" },
-  { key: "best_place", label: "Best", align: "right" },
+  { key: "t64", label: "T64", align: "right", mobileHidden: true },
+  { key: "field", label: "Field", align: "right", mobileHidden: true },
+  {
+    key: "expected",
+    label: "Expected",
+    align: "right",
+    title: "Expected Top 64 entries based on field share",
+    mobileHidden: true,
+  },
+  { key: "best_place", label: "Best", align: "right", mobileHidden: true },
 ];
 
 function excessColor(excess: number) {
@@ -65,9 +77,16 @@ export default function StandingsTable({ legends }: Props) {
   }
 
   function SortIndicator({ col }: { col: typeof sortKey }) {
-    if (col !== sortKey) return <span className="text-zinc-600 ml-1">↕</span>;
+    if (col !== sortKey)
+      return (
+        <span aria-hidden="true" className="text-zinc-600 ml-1">
+          ↕
+        </span>
+      );
     return (
-      <span className="text-emerald-400 ml-1">{sortDir === "asc" ? "↑" : "↓"}</span>
+      <span aria-hidden="true" className="text-emerald-400 ml-1">
+        {sortDir === "asc" ? "↑" : "↓"}
+      </span>
     );
   }
 
@@ -76,10 +95,18 @@ export default function StandingsTable({ legends }: Props) {
       <table className="w-full text-sm" aria-label="Legend standings">
         <thead>
           <tr className="bg-zinc-900 border-b border-zinc-800">
-            {COLUMNS.map(({ key, label, align }) => (
+            {COLUMNS.map(({ key, label, align, title, mobileHidden }) => (
               <th
                 key={key}
                 onClick={() => handleSort(key)}
+                onKeyDown={(e) => {
+                  if (e.key === "Enter" || e.key === " ") {
+                    e.preventDefault();
+                    handleSort(key);
+                  }
+                }}
+                tabIndex={0}
+                title={title}
                 aria-sort={
                   key === sortKey
                     ? sortDir === "asc"
@@ -87,7 +114,11 @@ export default function StandingsTable({ legends }: Props) {
                       : "descending"
                     : "none"
                 }
-                className={`px-4 py-3 ${align === "right" ? "text-right" : "text-left"} text-zinc-400 font-medium cursor-pointer select-none hover:text-zinc-200 whitespace-nowrap`}
+                className={`px-2 py-2 sm:px-4 sm:py-3 ${
+                  align === "right" ? "text-right" : "text-left"
+                } text-zinc-400 font-medium cursor-pointer select-none hover:text-zinc-200 whitespace-nowrap rounded ${
+                  mobileHidden ? "hidden sm:table-cell" : ""
+                }`}
               >
                 {label}
                 <SortIndicator col={key} />
@@ -113,28 +144,35 @@ export default function StandingsTable({ legends }: Props) {
                   i % 2 === 0 ? "bg-zinc-900/30" : ""
                 }`}
               >
-                <td className="px-4 py-3 text-zinc-100 font-medium">
-                  {legend.name}
+                <td className="px-2 py-2 sm:px-4 sm:py-3 font-medium">
+                  <span className="text-zinc-100">
+                    {legend.name.split(",")[0]}
+                  </span>
+                  {legend.name.includes(",") && (
+                    <span className="hidden sm:inline text-zinc-500 text-xs ml-1">
+                      {legend.name.split(",").slice(1).join(",").trim()}
+                    </span>
+                  )}
                 </td>
-                <td className="px-4 py-3 text-zinc-300 text-right tabular-nums">
-                  {legend.field}
-                </td>
-                <td className="px-4 py-3 text-zinc-300 text-right tabular-nums">
-                  {legend.t64}
-                </td>
-                <td className="px-4 py-3 text-zinc-300 text-right tabular-nums">
+                <td className="px-2 py-2 sm:px-4 sm:py-3 text-zinc-300 text-right tabular-nums">
                   {legend.conv_pct.toFixed(1)}%
                 </td>
-                <td className="px-4 py-3 text-zinc-400 text-right tabular-nums">
-                  {legend.expected.toFixed(2)}
-                </td>
                 <td
-                  className={`px-4 py-3 font-semibold text-right tabular-nums ${excessColor(legend.excess)}`}
+                  className={`px-2 py-2 sm:px-4 sm:py-3 font-semibold text-right tabular-nums ${excessColor(legend.excess)}`}
                 >
                   {legend.excess > 0 ? "+" : ""}
                   {legend.excess.toFixed(2)}
                 </td>
-                <td className="px-4 py-3 text-zinc-400 text-right tabular-nums">
+                <td className="hidden sm:table-cell px-4 py-3 text-zinc-300 text-right tabular-nums">
+                  {legend.t64}
+                </td>
+                <td className="hidden sm:table-cell px-4 py-3 text-zinc-300 text-right tabular-nums">
+                  {legend.field}
+                </td>
+                <td className="hidden sm:table-cell px-4 py-3 text-zinc-400 text-right tabular-nums">
+                  {legend.expected.toFixed(2)}
+                </td>
+                <td className="hidden sm:table-cell px-4 py-3 text-zinc-400 text-right tabular-nums">
                   {ordinal(legend.best_place)}
                 </td>
               </tr>

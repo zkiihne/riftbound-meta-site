@@ -1,0 +1,170 @@
+{
+  "deck_id": "d69c084e-a4a9-46ee-b966-2b56a63903d4",
+  "deck_name": "Anka Utrecht",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 36,
+  "username": "Recker",
+  "legend_name": "Annie, Dark Child",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Flash",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Grim Apothecary",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Abandon",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

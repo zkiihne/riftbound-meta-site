@@ -1,0 +1,140 @@
+{
+  "deck_id": "0ce8d6ff-8592-4c3d-b7b1-ecd69b045448",
+  "deck_name": "Sivir aurora utrecht",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 17,
+  "username": "loriwwa",
+  "legend_name": "Sivir, Battle Mistress",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Flurry of Blades",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Treasure Trove",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lunar Boon",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Scryer's Bloom",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 1,
+          "type": "Gear"
+        }
+      ]
+    }
+  ]
+}

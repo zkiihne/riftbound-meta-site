@@ -1,0 +1,145 @@
+{
+  "deck_id": "d0d0d151-bcf2-4d1f-8903-0330bfb86937",
+  "deck_name": "Bearback Seggs",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 14,
+  "username": "CTCG Villionaire",
+  "legend_name": "Volibear, Relentless Storm",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Gentle Gemdragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Elder Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Repulse",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

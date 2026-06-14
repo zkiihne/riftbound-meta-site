@@ -1,0 +1,145 @@
+{
+  "deck_id": "b07f7c0b-1f35-4076-ad3c-6788ca01b45b",
+  "deck_name": "Irelia",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 55,
+  "username": "Connor",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Back Off",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Disarming Rake",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

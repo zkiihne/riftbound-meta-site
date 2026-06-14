@@ -1,0 +1,160 @@
+{
+  "deck_id": "030e986e-d0f6-4464-bf62-a68b2fafe5ad",
+  "deck_name": "Imported Deck 2026-06-12",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 15,
+  "username": "SentoukiRaye",
+  "legend_name": "Master Yi, Wuju Bladesman",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Primal Strength",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fiora, Peerless",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Peerless",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

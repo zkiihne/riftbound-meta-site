@@ -1,0 +1,160 @@
+{
+  "deck_id": "8479e000-480d-4d48-ba52-96f4b9684474",
+  "deck_name": "Imported Deck 2026-05-29",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 6,
+  "username": "Dhawally",
+  "legend_name": "Diana, Scorn of the Moon",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hwei, Brooding Painter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Moonfall",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Turn to Dust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

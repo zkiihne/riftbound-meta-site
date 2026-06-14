@@ -1,0 +1,145 @@
+{
+  "deck_id": "1c334ec3-46ba-4ad6-b63f-852c9000ce6e",
+  "deck_name": "Imported Deck 2026-06-12",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 4,
+  "username": "CTCG Collin K",
+  "legend_name": "Sett, The Boss",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Arena Bar",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Showstopper",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Irresistible Faefolk",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cithria of Cloudfield",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Kinkou Monk",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Repulse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Repulse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

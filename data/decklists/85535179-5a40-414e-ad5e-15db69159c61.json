@@ -1,0 +1,145 @@
+{
+  "deck_id": "85535179-5a40-414e-ad5e-15db69159c61",
+  "deck_name": "New Deck 2026-06-10",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 64,
+  "username": "manukoka",
+  "legend_name": "Viktor, Herald of the Arcane",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Carrion Dredger",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Burst",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Safety Inspector",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Deadly Flourish",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Drag Under",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "deck_id": "87240e98-9707-4bca-9f82-de77b88df728",
+  "deck_name": "New Deck 2026-06-12",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 53,
+  "username": "JUN",
+  "legend_name": "Kha'Zix, Voidreaver",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Irresistible Faefolk",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Mister Root",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Void Assault",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Grim Resolve",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

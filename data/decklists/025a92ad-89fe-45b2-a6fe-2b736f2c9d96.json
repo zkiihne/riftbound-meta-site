@@ -1,0 +1,180 @@
+{
+  "deck_id": "025a92ad-89fe-45b2-a6fe-2b736f2c9d96",
+  "deck_name": "Irelia utrecht",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 21,
+  "username": "Comeback King",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

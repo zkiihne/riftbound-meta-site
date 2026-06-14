@@ -1,0 +1,155 @@
+{
+  "deck_id": "08164266-769f-437f-976b-9dad16af5ac3",
+  "deck_name": "Lux",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 59,
+  "username": "CTCG Relivia",
+  "legend_name": "Lux, Lady of Luminosity",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sumpworks Map",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Downstage Dramatics",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Promising Future",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Burst",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "The Ruination",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sprite Burst",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

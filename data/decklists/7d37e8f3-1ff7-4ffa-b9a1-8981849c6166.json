@@ -1,0 +1,155 @@
+{
+  "deck_id": "7d37e8f3-1ff7-4ffa-b9a1-8981849c6166",
+  "deck_name": "Master Yi Utrecht",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 22,
+  "username": "SpiriTx13",
+  "legend_name": "Master Yi, Wuju Bladesman",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Back Off",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Grim Resolve",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Stare Down",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

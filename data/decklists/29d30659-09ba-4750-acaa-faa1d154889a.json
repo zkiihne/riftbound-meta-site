@@ -1,0 +1,150 @@
+{
+  "deck_id": "29d30659-09ba-4750-acaa-faa1d154889a",
+  "deck_name": "Georgi D's Deck",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 39,
+  "username": "V0LKATA2",
+  "legend_name": "Rek'Sai, Void Burrower",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Undertitan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Mischievous Marai",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Carrion Dredger",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Divining Shells",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

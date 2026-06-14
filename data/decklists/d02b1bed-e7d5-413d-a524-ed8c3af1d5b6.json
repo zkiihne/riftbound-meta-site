@@ -1,0 +1,155 @@
+{
+  "deck_id": "d02b1bed-e7d5-413d-a524-ed8c3af1d5b6",
+  "deck_name": "Lux Infinite",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 34,
+  "username": "APH Flixus",
+  "legend_name": "Lux, Lady of Luminosity",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Downstage Dramatics",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sumpworks Map",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Shadow's Call",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 8,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 4,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Garbage Grabber",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ashe, Focused",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

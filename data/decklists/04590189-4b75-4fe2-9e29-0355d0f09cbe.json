@@ -1,0 +1,160 @@
+{
+  "deck_id": "04590189-4b75-4fe2-9e29-0355d0f09cbe",
+  "deck_name": "Imported Deck 2026-06-02",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 51,
+  "username": "Dynamic",
+  "legend_name": "Draven, Glorious Executioner",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Jhin, Murderous Artist",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "deck_id": "ef63e840-62ae-4624-8b05-526a111230a8",
+  "deck_name": "Diana utre",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 19,
+  "username": "MrRetsoor",
+  "legend_name": "Diana, Scorn of the Moon",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Moonfall",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Eclipse",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Hwei, Brooding Painter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Turn to Dust",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Baron Nashor",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Kha'Zix, Mutating Horror",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

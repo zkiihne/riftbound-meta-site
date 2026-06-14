@@ -1,0 +1,135 @@
+{
+  "deck_id": "4ff0af0d-0cf3-40b2-b4a4-1fbe348eacef",
+  "deck_name": "Imported Deck 2026-06-12",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 2,
+  "username": "MICE Ramekiano",
+  "legend_name": "Rek'Sai, Void Burrower",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Carrion Dredger",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Daring Poro",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Undertitan",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Void Rush",
+          "quantity": 3,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}

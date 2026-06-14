@@ -365,5 +365,454 @@
       "best_place": 127
     }
   ],
-  "t64_players": []
+  "t64_players": [
+    {
+      "place": 1,
+      "username": "EDG Rico1997",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 2,
+      "username": "TSS SouledOut",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 3,
+      "username": "nice boy",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 4,
+      "username": "EEP Bonk Repeat",
+      "legend_name": "Vex, Gloomist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 5,
+      "username": "Ghosterdriver",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 6,
+      "username": "AshenOCE",
+      "legend_name": "Teemo, Swift Scout",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 7,
+      "username": "CTCG DZiden",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 8,
+      "username": "CTG Alanzq",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 9,
+      "username": "CTCG Collin K",
+      "legend_name": "Sett, The Boss",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 10,
+      "username": "Micah Catelan",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 11,
+      "username": "Starkoss",
+      "legend_name": "Rengar, Pridestalker",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 12,
+      "username": "Minjuu",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 13,
+      "username": "Swagyolo420yea",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 14,
+      "username": "Dhawally",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 15,
+      "username": "Uncle Iroh",
+      "legend_name": "Sett, The Boss",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 16,
+      "username": "Bolun Zhang",
+      "legend_name": "Vex, Gloomist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 17,
+      "username": "OrangeOctober",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 18,
+      "username": "apexlyy",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 19,
+      "username": "kiran",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 20,
+      "username": "Ashome",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 21,
+      "username": "Rowanno1",
+      "legend_name": "Poppy, Keeper of the Hammer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 22,
+      "username": "MaverickJack",
+      "legend_name": "Vex, Gloomist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 23,
+      "username": "Prismaticismism",
+      "legend_name": "Annie, Dark Child",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 24,
+      "username": "Grommy1999",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 25,
+      "username": "yellow castor",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 26,
+      "username": "Fel Peon U",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 27,
+      "username": "TSS KnightinGale",
+      "legend_name": "Vex, Gloomist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 28,
+      "username": "Ppoong",
+      "legend_name": "Kha'Zix, Voidreaver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 29,
+      "username": "Eric00739",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 30,
+      "username": "Nathan",
+      "legend_name": "Draven, Glorious Executioner",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 31,
+      "username": "FanOfKnives",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 32,
+      "username": "SD LynisAllegra",
+      "legend_name": "Poppy, Keeper of the Hammer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 33,
+      "username": "Duncan",
+      "legend_name": "Lillia, Bashful Bloom",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 34,
+      "username": "TSS housesarebig",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 35,
+      "username": "Battle Cattle",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 36,
+      "username": "Ritaqua",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 37,
+      "username": "AI3000",
+      "legend_name": "Poppy, Keeper of the Hammer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 38,
+      "username": "calze6",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 39,
+      "username": "Wugtrio",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 40,
+      "username": "Cletus Van Damme",
+      "legend_name": "LeBlanc, Deceiver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 41,
+      "username": "YoungNewNew",
+      "legend_name": "Master Yi, Wuju Master",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 42,
+      "username": "Pjax91",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 43,
+      "username": "FujitoraHS",
+      "legend_name": "Ezreal, Prodigal Explorer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 44,
+      "username": "SD LovelySnOw",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 45,
+      "username": "Stigit",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 46,
+      "username": "Morpice121",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 47,
+      "username": "Templar",
+      "legend_name": "Sivir, Battle Mistress",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 48,
+      "username": "JUN",
+      "legend_name": "Kha'Zix, Voidreaver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 49,
+      "username": "LockOn",
+      "legend_name": "Lucian, Purifier",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 50,
+      "username": "KKayn",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 51,
+      "username": "mito",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 52,
+      "username": "Jerri",
+      "legend_name": "Kha'Zix, Voidreaver",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 53,
+      "username": "raodawgzz",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 54,
+      "username": "KurisuBee",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 55,
+      "username": "PKPikmin",
+      "legend_name": "Diana, Scorn of the Moon",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 56,
+      "username": "AsianSpaghetti",
+      "legend_name": "Irelia, Blade Dancer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 57,
+      "username": "SaintAuz",
+      "legend_name": "Ornn, Fire Below the Mountain",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 58,
+      "username": "Talion",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 59,
+      "username": "Shizuno",
+      "legend_name": "Vex, Gloomist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 60,
+      "username": "Assassin Km",
+      "legend_name": "Fiora, Grand Duelist",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 61,
+      "username": "Miralis",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 62,
+      "username": "TSS NoVeggies",
+      "legend_name": "Poppy, Keeper of the Hammer",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 63,
+      "username": "Mowse",
+      "legend_name": "Azir, Emperor of the Sands",
+      "deck_id": null,
+      "has_decklist": false
+    },
+    {
+      "place": 64,
+      "username": "Ninetales",
+      "legend_name": "Miss Fortune, Bounty Hunter",
+      "deck_id": null,
+      "has_decklist": false
+    }
+  ]
 }

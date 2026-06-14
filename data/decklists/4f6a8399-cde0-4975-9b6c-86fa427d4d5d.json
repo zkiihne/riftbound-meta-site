@@ -1,0 +1,213 @@
+{
+  "deck_id": "4f6a8399-cde0-4975-9b6c-86fa427d4d5d",
+  "deck_name": "Irelia",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 25,
+  "username": "Blackmamba120299",
+  "legend_name": "Irelia, Blade Dancer",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Scuttle Crab",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "quantity": 1,
+          "type": "Gear"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "section_type": "champion",
+      "cards": [
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "section_type": "legend",
+      "cards": [
+        {
+          "name": "Irelia, Blade Dancer",
+          "quantity": 1,
+          "type": "Legend"
+        }
+      ]
+    },
+    {
+      "name": "Battlefields",
+      "section_type": "battlefield",
+      "cards": [
+        {
+          "name": "Abandoned Hall",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "type": "Battlefield"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "type": "Battlefield"
+        }
+      ]
+    }
+  ]
+}

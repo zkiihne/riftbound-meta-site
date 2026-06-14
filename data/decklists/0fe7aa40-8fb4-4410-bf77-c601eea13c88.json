@@ -1,0 +1,160 @@
+{
+  "deck_id": "0fe7aa40-8fb4-4410-bf77-c601eea13c88",
+  "deck_name": "Paard",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 45,
+  "username": "Lks10",
+  "legend_name": "Lillia, Bashful Bloom",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mask of Foresight",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sprite Burst",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sprite Fountain",
+          "quantity": 3,
+          "type": "Gear"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "quantity": 2,
+          "type": "Gear"
+        },
+        {
+          "name": "Smoke and Mirrors",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 1,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "type": "Rune"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Janna, Savior",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke and Mirrors",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Lilting Lullaby",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

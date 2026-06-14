@@ -12,7 +12,7 @@ export interface T64Player {
   place: number;
   username: string;
   legend_name: string;
-  deck_id: string;
+  deck_id: string | null;
   has_decklist: boolean;
 }
 

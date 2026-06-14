@@ -1,0 +1,160 @@
+{
+  "deck_id": "3b5abb59-9652-4da0-b0d3-4a2b8ec4194d",
+  "deck_name": "Imported Deck 2026-06-12",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 29,
+  "username": "StarWOrso",
+  "legend_name": "Diana, Scorn of the Moon",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Moonfall",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hwei, Brooding Painter",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Apathetic",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "type": "Unit"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "type": "Rune"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Star-Crossed",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Baron Nashor",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Moonfall",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

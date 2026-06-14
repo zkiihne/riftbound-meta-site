@@ -1,0 +1,140 @@
+{
+  "deck_id": "c38ae89f-e8c7-439c-b1bc-319d17b8556a",
+  "deck_name": "Leban",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 11,
+  "username": "GGNext00",
+  "legend_name": "LeBlanc, Deceiver",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Ruined Rex",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Karthus, Eternal",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Black Rose Dignitary",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Vi, Peacekeeper",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Rift Herald",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Sacrifice",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Mirror Image",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Baited Hook",
+          "quantity": 3,
+          "type": "Gear"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "type": "Rune"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 8,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Ashe, Focused",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "LeBlanc, Everywhere at Once",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "type": "Unit"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Safety Inspector",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Turn to Dust",
+          "quantity": 1,
+          "type": "Spell"
+        }
+      ]
+    }
+  ]
+}

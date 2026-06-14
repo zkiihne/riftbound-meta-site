@@ -1,0 +1,135 @@
+{
+  "deck_id": "68cd5c6e-92de-4e7d-b7f7-86d4e5cd5c27",
+  "deck_name": "Riftbound Regional Qualifier - Utrecht Pier Paolo G Deck Submission",
+  "event_id": 667904,
+  "event_name": "Riftbound Regional Qualifier - Utrecht",
+  "date": "2026-06-13",
+  "place": 56,
+  "username": "ECL Prime",
+  "legend_name": "Rengar, Pridestalker",
+  "sections": [
+    {
+      "name": "Main Deck",
+      "section_type": "main",
+      "cards": [
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kinkou Initiate",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Grim Apothecary",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Irresistible Faefolk",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "type": "Spell"
+        },
+        {
+          "name": "Inferna",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Thrill of the Hunt",
+          "quantity": 3,
+          "type": "Spell"
+        },
+        {
+          "name": "Determined Sentry",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Nidalee, Cat Form",
+          "quantity": 3,
+          "type": "Unit"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "type": "Spell"
+        }
+      ]
+    },
+    {
+      "name": "Rune Pool",
+      "section_type": "rune_pool",
+      "cards": [
+        {
+          "name": "Body Rune",
+          "quantity": 8,
+          "type": "Rune"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "type": "Rune"
+        }
+      ]
+    },
+    {
+      "name": "Sideboard",
+      "section_type": "sideboard",
+      "cards": [
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "type": "Spell"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "type": "Unit"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 3,
+          "type": "Unit"
+        }
+      ]
+    }
+  ]
+}
