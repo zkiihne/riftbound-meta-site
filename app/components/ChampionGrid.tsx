@@ -4,11 +4,23 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import type { LegendStats, TournamentData, DecklistData } from "@/lib/types";
 
-type SortKey = "conv_pct" | "winrate" | "field" | "t64" | "excess" | "best_place";
+type SortKey =
+  | "conv_pct"
+  | "wr"
+  | "d1_wr"
+  | "d2_wr"
+  | "nm_wr"
+  | "field"
+  | "t64"
+  | "excess"
+  | "best_place";
 
 const SORT_OPTIONS: { key: SortKey; label: string }[] = [
   { key: "conv_pct", label: "Conv%" },
-  { key: "winrate", label: "WR%" },
+  { key: "wr", label: "WR%" },
+  { key: "d1_wr", label: "Day 1 WR" },
+  { key: "d2_wr", label: "Day 2 WR" },
+  { key: "nm_wr", label: "Non-mirror WR" },
   { key: "excess", label: "Excess" },
   { key: "t64", label: "Top 64" },
   { key: "field", label: "Field" },
@@ -217,11 +229,11 @@ function ChampionCard({
             </div>
           </div>
           <div className="text-center">
-            <div className={`mb-0.5 ${sortKey === "winrate" ? "text-emerald-500" : "text-zinc-500"}`}>WR%</div>
-            <div className={`font-semibold ${sortKey === "winrate" ? "text-emerald-400" : "text-zinc-100"}`}>
-              {l.winrate.toFixed(1)}%
+            <div className={`mb-0.5 ${sortKey === "wr" ? "text-emerald-500" : "text-zinc-500"}`}>WR%</div>
+            <div className={`font-semibold ${sortKey === "wr" ? "text-emerald-400" : "text-zinc-100"}`}>
+              {l.wr.toFixed(1)}%
             </div>
-            <div className="text-[10px] text-zinc-600 mt-0.5">{l.wins + l.losses} matches</div>
+            <div className="text-[10px] text-zinc-600 mt-0.5">{l.wr_wins + l.wr_losses} matches</div>
           </div>
           <div className="text-center">
             <div className={`mb-0.5 ${sortKey === "t64" ? "text-emerald-500" : "text-zinc-500"}`}>Top 64</div>
@@ -245,6 +257,14 @@ function ChampionCard({
         </div>
       </div>
 
+      {l.wr_wins + l.wr_losses > 0 && (
+        <div className="px-4 sm:px-5 pb-2.5 -mt-1 flex flex-wrap items-center gap-x-5 gap-y-1 text-[11px] tabular-nums">
+          <WrPill label="Day 1" wr={l.d1_wr} n={l.d1_wins + l.d1_losses} active={sortKey === "d1_wr"} />
+          <WrPill label="Day 2" wr={l.d2_wr} n={l.d2_wins + l.d2_losses} active={sortKey === "d2_wr"} />
+          <WrPill label="Non-mirror" wr={l.nm_wr} n={l.nm_wins + l.nm_losses} active={sortKey === "nm_wr"} />
+        </div>
+      )}
+
       {expanded && (
         <div className="border-t border-zinc-800/60 divide-y divide-zinc-800/40">
           {decks.map((d, i) => (
@@ -253,6 +273,34 @@ function ChampionCard({
         </div>
       )}
     </div>
+  );
+}
+
+function WrPill({
+  label,
+  wr,
+  n,
+  active,
+}: {
+  label: string;
+  wr: number;
+  n: number;
+  active: boolean;
+}) {
+  return (
+    <span className="flex items-baseline gap-1.5">
+      <span className={active ? "text-emerald-500" : "text-zinc-500"}>{label}</span>
+      {n > 0 ? (
+        <>
+          <span className={`font-semibold ${active ? "text-emerald-400" : "text-zinc-200"}`}>
+            {wr.toFixed(1)}%
+          </span>
+          <span className="text-zinc-600">({n})</span>
+        </>
+      ) : (
+        <span className="text-zinc-700">—</span>
+      )}
+    </span>
   );
 }
 

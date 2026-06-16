@@ -9,6 +9,20 @@ export interface LegendStats {
   wins: number;
   losses: number;
   winrate: number;
+  // Match-derived winrates (UVS per-match data). Byes excluded entirely;
+  // draws excluded from the denominator. Populated by fetch-matches.ts.
+  wr_wins: number; // overall real-match wins (no byes)
+  wr_losses: number; // overall real-match losses
+  wr: number; // overall match winrate % = wr_wins / (wr_wins + wr_losses)
+  d1_wins: number; // Day 1 (first Swiss phase)
+  d1_losses: number;
+  d1_wr: number;
+  d2_wins: number; // Day 2 (all later phases: day-2 Swiss + top cut)
+  d2_losses: number;
+  d2_wr: number;
+  nm_wins: number; // non-mirror (opponent on a different legend)
+  nm_losses: number;
+  nm_wr: number;
 }
 
 export interface T64Player {
