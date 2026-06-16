@@ -4,10 +4,11 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import type { LegendStats, TournamentData, DecklistData } from "@/lib/types";
 
-type SortKey = "conv_pct" | "field" | "t64" | "excess" | "best_place";
+type SortKey = "conv_pct" | "winrate" | "field" | "t64" | "excess" | "best_place";
 
 const SORT_OPTIONS: { key: SortKey; label: string }[] = [
   { key: "conv_pct", label: "Conv%" },
+  { key: "winrate", label: "WR%" },
   { key: "excess", label: "Excess" },
   { key: "t64", label: "Top 64" },
   { key: "field", label: "Field" },
@@ -208,12 +209,19 @@ function ChampionCard({
             <span className="ml-auto text-zinc-700 text-xs shrink-0">no lists</span>
           )}
         </div>
-        <div className="flex items-center justify-between gap-y-1.5 text-xs tabular-nums w-full sm:w-72">
+        <div className="flex items-center justify-between gap-y-1.5 text-xs tabular-nums w-full sm:w-96">
           <div className="text-center">
             <div className={`mb-0.5 ${sortKey === "conv_pct" ? "text-emerald-500" : "text-zinc-500"}`}>Conv%</div>
             <div className={`font-semibold ${sortKey === "conv_pct" ? "text-emerald-400" : "text-zinc-100"}`}>
               {l.conv_pct.toFixed(1)}%
             </div>
+          </div>
+          <div className="text-center">
+            <div className={`mb-0.5 ${sortKey === "winrate" ? "text-emerald-500" : "text-zinc-500"}`}>WR%</div>
+            <div className={`font-semibold ${sortKey === "winrate" ? "text-emerald-400" : "text-zinc-100"}`}>
+              {l.winrate.toFixed(1)}%
+            </div>
+            <div className="text-[10px] text-zinc-600 mt-0.5">{l.wins + l.losses} matches</div>
           </div>
           <div className="text-center">
             <div className={`mb-0.5 ${sortKey === "t64" ? "text-emerald-500" : "text-zinc-500"}`}>Top 64</div>

@@ -11,7 +11,10 @@
       "conv_pct": 10.87,
       "expected": 6.51,
       "excess": 13.49,
-      "best_place": 5
+      "best_place": 7,
+      "wins": 974,
+      "losses": 592,
+      "winrate": 62.2
     },
     {
       "name": "Diana, Scorn of the Moon",
@@ -20,7 +23,10 @@
       "conv_pct": 5.17,
       "expected": 6.15,
       "excess": 2.85,
-      "best_place": 6
+      "best_place": 4,
+      "wins": 767,
+      "losses": 546,
+      "winrate": 58.42
     },
     {
       "name": "Viktor, Herald of the Arcane",
@@ -29,7 +35,10 @@
       "conv_pct": 7.46,
       "expected": 2.37,
       "excess": 2.63,
-      "best_place": 7
+      "best_place": 2,
+      "wins": 320,
+      "losses": 234,
+      "winrate": 57.76
     },
     {
       "name": "Lux, Lady of Luminosity",
@@ -38,7 +47,10 @@
       "conv_pct": 12.5,
       "expected": 0.85,
       "excess": 2.15,
-      "best_place": 28
+      "best_place": 28,
+      "wins": 100,
+      "losses": 79,
+      "winrate": 55.87
     },
     {
       "name": "Azir, Emperor of the Sands",
@@ -47,7 +59,10 @@
       "conv_pct": 6.45,
       "expected": 2.19,
       "excess": 1.81,
-      "best_place": 1
+      "best_place": 1,
+      "wins": 248,
+      "losses": 198,
+      "winrate": 55.61
     },
     {
       "name": "Rek'Sai, Void Burrower",
@@ -56,7 +71,10 @@
       "conv_pct": 9.09,
       "expected": 0.78,
       "excess": 1.22,
-      "best_place": 2
+      "best_place": 5,
+      "wins": 96,
+      "losses": 69,
+      "winrate": 58.18
     },
     {
       "name": "Darius, Hand of Noxus",
@@ -65,7 +83,10 @@
       "conv_pct": 7.14,
       "expected": 0.5,
       "excess": 0.5,
-      "best_place": 3
+      "best_place": 6,
+      "wins": 58,
+      "losses": 46,
+      "winrate": 55.77
     },
     {
       "name": "Annie, Dark Child",
@@ -74,7 +95,10 @@
       "conv_pct": 4.35,
       "expected": 1.63,
       "excess": 0.37,
-      "best_place": 8
+      "best_place": 8,
+      "wins": 204,
+      "losses": 148,
+      "winrate": 57.95
     },
     {
       "name": "Rengar, Pridestalker",
@@ -83,7 +107,10 @@
       "conv_pct": 4,
       "expected": 1.77,
       "excess": 0.23,
-      "best_place": 24
+      "best_place": 24,
+      "wins": 212,
+      "losses": 169,
+      "winrate": 55.64
     },
     {
       "name": "Jhin, Virtuoso",
@@ -92,7 +119,10 @@
       "conv_pct": 4.55,
       "expected": 0.78,
       "excess": 0.22,
-      "best_place": 48
+      "best_place": 48,
+      "wins": 76,
+      "losses": 85,
+      "winrate": 47.2
     },
     {
       "name": "Volibear, Relentless Storm",
@@ -101,7 +131,10 @@
       "conv_pct": 4.35,
       "expected": 0.81,
       "excess": 0.19,
-      "best_place": 14
+      "best_place": 14,
+      "wins": 68,
+      "losses": 81,
+      "winrate": 45.64
     },
     {
       "name": "Draven, Glorious Executioner",
@@ -110,7 +143,10 @@
       "conv_pct": 4,
       "expected": 0.88,
       "excess": 0.12,
-      "best_place": 51
+      "best_place": 51,
+      "wins": 112,
+      "losses": 83,
+      "winrate": 57.44
     },
     {
       "name": "Irelia, Blade Dancer",
@@ -119,7 +155,10 @@
       "conv_pct": 3.55,
       "expected": 5.98,
       "excess": 0.02,
-      "best_place": 21
+      "best_place": 21,
+      "wins": 688,
+      "losses": 565,
+      "winrate": 54.91
     },
     {
       "name": "Sett, The Boss",
@@ -128,7 +167,10 @@
       "conv_pct": 3.57,
       "expected": 0.99,
       "excess": 0.01,
-      "best_place": 4
+      "best_place": 3,
+      "wins": 111,
+      "losses": 89,
+      "winrate": 55.5
     },
     {
       "name": "Rumble, Mechanized Menace",
@@ -137,7 +179,10 @@
       "conv_pct": 0,
       "expected": 0.42,
       "excess": -0.42,
-      "best_place": 529
+      "best_place": 529,
+      "wins": 51,
+      "losses": 43,
+      "winrate": 54.26
     },
     {
       "name": "Renata Glasc, Chem-Baroness",
@@ -146,7 +191,10 @@
       "conv_pct": 0,
       "expected": 0.5,
       "excess": -0.5,
-      "best_place": 537
+      "best_place": 537,
+      "wins": 36,
+      "losses": 59,
+      "winrate": 37.89
     },
     {
       "name": "Garen, Might of Demacia",
@@ -155,7 +203,10 @@
       "conv_pct": 0,
       "expected": 0.53,
       "excess": -0.53,
-      "best_place": 481
+      "best_place": 481,
+      "wins": 50,
+      "losses": 60,
+      "winrate": 45.45
     },
     {
       "name": "Vi, Piltover Enforcer",
@@ -164,7 +215,10 @@
       "conv_pct": 0,
       "expected": 0.64,
       "excess": -0.64,
-      "best_place": 243
+      "best_place": 243,
+      "wins": 63,
+      "losses": 67,
+      "winrate": 48.46
     },
     {
       "name": "Poppy, Keeper of the Hammer",
@@ -173,7 +227,10 @@
       "conv_pct": 0,
       "expected": 0.67,
       "excess": -0.67,
-      "best_place": 202
+      "best_place": 202,
+      "wins": 68,
+      "losses": 69,
+      "winrate": 49.64
     },
     {
       "name": "Lucian, Purifier",
@@ -182,7 +239,10 @@
       "conv_pct": 0,
       "expected": 0.71,
       "excess": -0.71,
-      "best_place": 248
+      "best_place": 248,
+      "wins": 82,
+      "losses": 78,
+      "winrate": 51.25
     },
     {
       "name": "Lee Sin, Blind Monk",
@@ -191,7 +251,10 @@
       "conv_pct": 0,
       "expected": 0.71,
       "excess": -0.71,
-      "best_place": 258
+      "best_place": 258,
+      "wins": 73,
+      "losses": 69,
+      "winrate": 51.41
     },
     {
       "name": "Jax, Grandmaster at Arms",
@@ -200,7 +263,10 @@
       "conv_pct": 0,
       "expected": 0.74,
       "excess": -0.74,
-      "best_place": 197
+      "best_place": 197,
+      "wins": 64,
+      "losses": 81,
+      "winrate": 44.14
     },
     {
       "name": "Ivern, Green Father",
@@ -209,7 +275,10 @@
       "conv_pct": 0,
       "expected": 0.78,
       "excess": -0.78,
-      "best_place": 171
+      "best_place": 171,
+      "wins": 74,
+      "losses": 79,
+      "winrate": 48.37
     },
     {
       "name": "Fiora, Grand Duelist",
@@ -218,7 +287,10 @@
       "conv_pct": 0,
       "expected": 0.81,
       "excess": -0.81,
-      "best_place": 94
+      "best_place": 94,
+      "wins": 97,
+      "losses": 78,
+      "winrate": 55.43
     },
     {
       "name": "Lillia, Bashful Bloom",
@@ -227,7 +299,10 @@
       "conv_pct": 1.89,
       "expected": 1.87,
       "excess": -0.87,
-      "best_place": 45
+      "best_place": 45,
+      "wins": 157,
+      "losses": 186,
+      "winrate": 45.77
     },
     {
       "name": "Kha'Zix, Voidreaver",
@@ -236,7 +311,10 @@
       "conv_pct": 1.89,
       "expected": 1.87,
       "excess": -0.87,
-      "best_place": 53
+      "best_place": 53,
+      "wins": 223,
+      "losses": 183,
+      "winrate": 54.93
     },
     {
       "name": "Jinx, Loose Cannon",
@@ -245,7 +323,10 @@
       "conv_pct": 0,
       "expected": 0.95,
       "excess": -0.95,
-      "best_place": 167
+      "best_place": 167,
+      "wins": 76,
+      "losses": 100,
+      "winrate": 43.18
     },
     {
       "name": "Teemo, Swift Scout",
@@ -254,7 +335,10 @@
       "conv_pct": 0,
       "expected": 0.99,
       "excess": -0.99,
-      "best_place": 160
+      "best_place": 160,
+      "wins": 90,
+      "losses": 99,
+      "winrate": 47.62
     },
     {
       "name": "LeBlanc, Deceiver",
@@ -263,7 +347,10 @@
       "conv_pct": 2.63,
       "expected": 4.03,
       "excess": -1.03,
-      "best_place": 11
+      "best_place": 11,
+      "wins": 446,
+      "losses": 369,
+      "winrate": 54.72
     },
     {
       "name": "Leona, Radiant Dawn",
@@ -272,7 +359,10 @@
       "conv_pct": 0,
       "expected": 1.06,
       "excess": -1.06,
-      "best_place": 326
+      "best_place": 326,
+      "wins": 82,
+      "losses": 117,
+      "winrate": 41.21
     },
     {
       "name": "Master Yi, Wuju Master",
@@ -281,7 +371,10 @@
       "conv_pct": 0,
       "expected": 1.1,
       "excess": -1.1,
-      "best_place": 199
+      "best_place": 199,
+      "wins": 105,
+      "losses": 118,
+      "winrate": 47.09
     },
     {
       "name": "Ahri, Nine-Tailed Fox",
@@ -290,7 +383,10 @@
       "conv_pct": 0,
       "expected": 1.1,
       "excess": -1.1,
-      "best_place": 355
+      "best_place": 355,
+      "wins": 92,
+      "losses": 110,
+      "winrate": 45.54
     },
     {
       "name": "Miss Fortune, Bounty Hunter",
@@ -299,7 +395,10 @@
       "conv_pct": 0,
       "expected": 1.13,
       "excess": -1.13,
-      "best_place": 76
+      "best_place": 76,
+      "wins": 120,
+      "losses": 106,
+      "winrate": 53.1
     },
     {
       "name": "Yasuo, Unforgiven",
@@ -308,7 +407,10 @@
       "conv_pct": 0,
       "expected": 1.13,
       "excess": -1.13,
-      "best_place": 112
+      "best_place": 112,
+      "wins": 94,
+      "losses": 125,
+      "winrate": 42.92
     },
     {
       "name": "Ornn, Fire Below the Mountain",
@@ -317,7 +419,10 @@
       "conv_pct": 0,
       "expected": 1.13,
       "excess": -1.13,
-      "best_place": 153
+      "best_place": 153,
+      "wins": 110,
+      "losses": 117,
+      "winrate": 48.46
     },
     {
       "name": "Kai'Sa, Daughter of the Void",
@@ -326,7 +431,10 @@
       "conv_pct": 0,
       "expected": 1.17,
       "excess": -1.17,
-      "best_place": 193
+      "best_place": 193,
+      "wins": 134,
+      "losses": 121,
+      "winrate": 52.55
     },
     {
       "name": "Ezreal, Prodigal Explorer",
@@ -335,7 +443,10 @@
       "conv_pct": 0,
       "expected": 1.41,
       "excess": -1.41,
-      "best_place": 67
+      "best_place": 67,
+      "wins": 176,
+      "losses": 133,
+      "winrate": 56.96
     },
     {
       "name": "Sivir, Battle Mistress",
@@ -344,7 +455,10 @@
       "conv_pct": 1.39,
       "expected": 2.55,
       "excess": -1.55,
-      "best_place": 17
+      "best_place": 17,
+      "wins": 319,
+      "losses": 237,
+      "winrate": 57.37
     },
     {
       "name": "Vex, Gloomist",
@@ -353,7 +467,10 @@
       "conv_pct": 0,
       "expected": 1.77,
       "excess": -1.77,
-      "best_place": 85
+      "best_place": 85,
+      "wins": 163,
+      "losses": 171,
+      "winrate": 48.8
     },
     {
       "name": "Pyke, Bloodharbor Ripper",
@@ -362,7 +479,10 @@
       "conv_pct": 0,
       "expected": 2.05,
       "excess": -2.05,
-      "best_place": 102
+      "best_place": 102,
+      "wins": 184,
+      "losses": 201,
+      "winrate": 47.79
     }
   ],
   "t64_players": [
@@ -375,44 +495,44 @@
     },
     {
       "place": 2,
-      "username": "MICE Ramekiano",
-      "legend_name": "Rek'Sai, Void Burrower",
-      "deck_id": "4ff0af0d-0cf3-40b2-b4a4-1fbe348eacef",
+      "username": "Rednaxell",
+      "legend_name": "Viktor, Herald of the Arcane",
+      "deck_id": "333a1e38-8042-4e03-ae48-9874d5445d25",
       "has_decklist": true
     },
     {
       "place": 3,
-      "username": "MICE DiamondHat",
-      "legend_name": "Darius, Hand of Noxus",
-      "deck_id": "e9022a3c-b0bb-4961-a491-d803689ee695",
-      "has_decklist": true
-    },
-    {
-      "place": 4,
       "username": "CTCG Collin K",
       "legend_name": "Sett, The Boss",
       "deck_id": "1c334ec3-46ba-4ad6-b63f-852c9000ce6e",
       "has_decklist": true
     },
     {
-      "place": 5,
-      "username": "Bakura",
-      "legend_name": "Master Yi, Wuju Bladesman",
-      "deck_id": "ba3ddf49-abd4-49b5-a30e-9b2051d114ba",
-      "has_decklist": true
-    },
-    {
-      "place": 6,
+      "place": 4,
       "username": "Dhawally",
       "legend_name": "Diana, Scorn of the Moon",
       "deck_id": "8479e000-480d-4d48-ba52-96f4b9684474",
       "has_decklist": true
     },
     {
+      "place": 5,
+      "username": "MICE Ramekiano",
+      "legend_name": "Rek'Sai, Void Burrower",
+      "deck_id": "4ff0af0d-0cf3-40b2-b4a4-1fbe348eacef",
+      "has_decklist": true
+    },
+    {
+      "place": 6,
+      "username": "MICE DiamondHat",
+      "legend_name": "Darius, Hand of Noxus",
+      "deck_id": "e9022a3c-b0bb-4961-a491-d803689ee695",
+      "has_decklist": true
+    },
+    {
       "place": 7,
-      "username": "Rednaxell",
-      "legend_name": "Viktor, Herald of the Arcane",
-      "deck_id": "333a1e38-8042-4e03-ae48-9874d5445d25",
+      "username": "Bakura",
+      "legend_name": "Master Yi, Wuju Bladesman",
+      "deck_id": "ba3ddf49-abd4-49b5-a30e-9b2051d114ba",
       "has_decklist": true
     },
     {
@@ -487,7 +607,7 @@
     },
     {
       "place": 18,
-      "username": "Trentbrennt",
+      "username": "Mehrzweckeier",
       "legend_name": "Viktor, Herald of the Arcane",
       "deck_id": "0d6694c6-c585-4dfd-9198-6228d2ecf02a",
       "has_decklist": true

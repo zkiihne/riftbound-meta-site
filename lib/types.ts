@@ -6,6 +6,9 @@ export interface LegendStats {
   expected: number;
   excess: number;
   best_place: number;
+  wins: number;
+  losses: number;
+  winrate: number;
 }
 
 export interface T64Player {

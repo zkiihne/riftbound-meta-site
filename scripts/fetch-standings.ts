@@ -22,6 +22,8 @@ interface RawPlayer {
   final_place_in_standings: number;
   registration_status: string;
   deck_id: string | null;
+  matches_won: number;
+  matches_lost: number;
 }
 
 interface RawDeckCard {
@@ -53,6 +55,9 @@ export interface LegendStats {
   expected: number;
   excess: number;
   best_place: number;
+  wins: number;
+  losses: number;
+  winrate: number;
 }
 
 export interface T64Player {
@@ -119,10 +124,14 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
   const fieldCounts = new Map<string, number>();
   const t64Counts = new Map<string, number>();
   const bestPlace = new Map<string, number>();
+  const winsByLegend = new Map<string, number>();
+  const lossesByLegend = new Map<string, number>();
 
   for (const p of players) {
     const legend = p.legend_name as string;
     fieldCounts.set(legend, (fieldCounts.get(legend) ?? 0) + 1);
+    winsByLegend.set(legend, (winsByLegend.get(legend) ?? 0) + (p.matches_won ?? 0));
+    lossesByLegend.set(legend, (lossesByLegend.get(legend) ?? 0) + (p.matches_lost ?? 0));
     const place = p.final_place_in_standings;
     if (place <= 64) {
       t64Counts.set(legend, (t64Counts.get(legend) ?? 0) + 1);
@@ -138,7 +147,10 @@ async function processEvent(event: RawEvent): Promise<TournamentData> {
       const expected = round2((field / totalPlayers) * 64);
       const excess = round2(t64 - expected);
       const best_place = bestPlace.get(name) ?? 0;
-      return { name, field, t64, conv_pct, expected, excess, best_place };
+      const wins = winsByLegend.get(name) ?? 0;
+      const losses = lossesByLegend.get(name) ?? 0;
+      const winrate = wins + losses === 0 ? 0 : round2((wins / (wins + losses)) * 100);
+      return { name, field, t64, conv_pct, expected, excess, best_place, wins, losses, winrate };
     })
     .sort((a, b) => b.excess - a.excess);
 
