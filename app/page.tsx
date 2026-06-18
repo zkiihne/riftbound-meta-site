@@ -2,6 +2,7 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import type { EventMeta, TournamentData } from "@/lib/types";
 import MetaView from "@/app/components/MetaView";
+import TrendChart from "@/app/components/TrendChart";
 
 function loadTournaments(): TournamentData[] {
   const dataDir = join(process.cwd(), "data", "tournaments");
@@ -43,6 +44,17 @@ export default function Home() {
             </span>
           </p>
         </div>
+        <section className="mb-12">
+          <h2 className="text-xl font-semibold text-zinc-100 mb-1">
+            Trends across events
+          </h2>
+          <p className="text-zinc-500 text-sm mb-4">
+            How the most-played legends moved across regional qualifiers,
+            chronologically.
+          </p>
+          <TrendChart tournaments={tournaments} />
+        </section>
+
         <MetaView tournaments={tournaments} />
       </div>
     </main>
