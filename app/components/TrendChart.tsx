@@ -48,6 +48,7 @@ const ABBR: Record<string, string> = {
   "Las Vegas": "LV",
   Bologna: "BOL",
   Sydney: "SYD",
+  Hartford: "HAR",
 };
 
 function shortEvent(name: string) {
