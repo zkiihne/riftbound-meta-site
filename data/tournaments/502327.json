@@ -15,18 +15,18 @@
       "wins": 1064,
       "losses": 670,
       "winrate": 61.36,
-      "wr_wins": 847,
-      "wr_losses": 649,
-      "wr": 56.62,
-      "d1_wins": 709,
-      "d1_losses": 502,
-      "d1_wr": 58.55,
+      "wr_wins": 844,
+      "wr_losses": 647,
+      "wr": 56.61,
+      "d1_wins": 706,
+      "d1_losses": 500,
+      "d1_wr": 58.54,
       "d2_wins": 138,
       "d2_losses": 147,
       "d2_wr": 48.42,
-      "nm_wins": 697,
-      "nm_losses": 499,
-      "nm_wr": 58.28
+      "nm_wins": 694,
+      "nm_losses": 497,
+      "nm_wr": 58.27
     },
     {
       "name": "Irelia, Blade Dancer",
@@ -39,18 +39,18 @@
       "wins": 761,
       "losses": 528,
       "winrate": 59.04,
-      "wr_wins": 579,
-      "wr_losses": 522,
-      "wr": 52.59,
-      "d1_wins": 496,
-      "d1_losses": 457,
-      "d1_wr": 52.05,
+      "wr_wins": 572,
+      "wr_losses": 518,
+      "wr": 52.48,
+      "d1_wins": 489,
+      "d1_losses": 456,
+      "d1_wr": 51.75,
       "d2_wins": 83,
-      "d2_losses": 65,
-      "d2_wr": 56.08,
-      "nm_wins": 522,
-      "nm_losses": 465,
-      "nm_wr": 52.89
+      "d2_losses": 62,
+      "d2_wr": 57.24,
+      "nm_wins": 515,
+      "nm_losses": 461,
+      "nm_wr": 52.77
     },
     {
       "name": "Master Yi, Wuju Bladesman",
@@ -63,18 +63,18 @@
       "wins": 388,
       "losses": 251,
       "winrate": 60.72,
-      "wr_wins": 330,
-      "wr_losses": 257,
-      "wr": 56.22,
-      "d1_wins": 281,
-      "d1_losses": 216,
-      "d1_wr": 56.54,
-      "d2_wins": 49,
+      "wr_wins": 327,
+      "wr_losses": 252,
+      "wr": 56.48,
+      "d1_wins": 279,
+      "d1_losses": 211,
+      "d1_wr": 56.94,
+      "d2_wins": 48,
       "d2_losses": 41,
-      "d2_wr": 54.44,
-      "nm_wins": 317,
-      "nm_losses": 244,
-      "nm_wr": 56.51
+      "d2_wr": 53.93,
+      "nm_wins": 314,
+      "nm_losses": 239,
+      "nm_wr": 56.78
     },
     {
       "name": "Lucian, Purifier",
@@ -87,18 +87,18 @@
       "wins": 248,
       "losses": 181,
       "winrate": 57.81,
-      "wr_wins": 203,
+      "wr_wins": 201,
       "wr_losses": 190,
-      "wr": 51.65,
-      "d1_wins": 170,
+      "wr": 51.41,
+      "d1_wins": 168,
       "d1_losses": 155,
-      "d1_wr": 52.31,
+      "d1_wr": 52.01,
       "d2_wins": 33,
       "d2_losses": 35,
       "d2_wr": 48.53,
-      "nm_wins": 194,
+      "nm_wins": 192,
       "nm_losses": 181,
-      "nm_wr": 51.73
+      "nm_wr": 51.47
     },
     {
       "name": "Annie, Dark Child",
@@ -111,18 +111,18 @@
       "wins": 214,
       "losses": 159,
       "winrate": 57.37,
-      "wr_wins": 164,
-      "wr_losses": 163,
-      "wr": 50.15,
-      "d1_wins": 139,
-      "d1_losses": 138,
-      "d1_wr": 50.18,
-      "d2_wins": 25,
-      "d2_losses": 25,
-      "d2_wr": 50,
-      "nm_wins": 159,
+      "wr_wins": 169,
+      "wr_losses": 164,
+      "wr": 50.75,
+      "d1_wins": 141,
+      "d1_losses": 137,
+      "d1_wr": 50.72,
+      "d2_wins": 28,
+      "d2_losses": 27,
+      "d2_wr": 50.91,
+      "nm_wins": 163,
       "nm_losses": 158,
-      "nm_wr": 50.16
+      "nm_wr": 50.78
     },
     {
       "name": "Sett, The Boss",
@@ -135,18 +135,18 @@
       "wins": 102,
       "losses": 80,
       "winrate": 56.04,
-      "wr_wins": 73,
+      "wr_wins": 72,
       "wr_losses": 93,
-      "wr": 43.98,
-      "d1_wins": 66,
+      "wr": 43.64,
+      "d1_wins": 65,
       "d1_losses": 89,
-      "d1_wr": 42.58,
+      "d1_wr": 42.21,
       "d2_wins": 7,
       "d2_losses": 4,
       "d2_wr": 63.64,
-      "nm_wins": 72,
+      "nm_wins": 71,
       "nm_losses": 92,
-      "nm_wr": 43.9
+      "nm_wr": 43.56
     },
     {
       "name": "Kai'Sa, Daughter of the Void",
@@ -159,18 +159,18 @@
       "wins": 408,
       "losses": 319,
       "winrate": 56.12,
-      "wr_wins": 323,
+      "wr_wins": 322,
       "wr_losses": 320,
-      "wr": 50.23,
-      "d1_wins": 283,
+      "wr": 50.16,
+      "d1_wins": 282,
       "d1_losses": 283,
-      "d1_wr": 50,
+      "d1_wr": 49.91,
       "d2_wins": 40,
       "d2_losses": 37,
       "d2_wr": 51.95,
-      "nm_wins": 299,
+      "nm_wins": 298,
       "nm_losses": 296,
-      "nm_wr": 50.25
+      "nm_wr": 50.17
     },
     {
       "name": "Jinx, Loose Cannon",
@@ -184,17 +184,17 @@
       "losses": 91,
       "winrate": 45.51,
       "wr_wins": 53,
-      "wr_losses": 82,
-      "wr": 39.26,
+      "wr_losses": 81,
+      "wr": 39.55,
       "d1_wins": 48,
-      "d1_losses": 80,
-      "d1_wr": 37.5,
+      "d1_losses": 79,
+      "d1_wr": 37.8,
       "d2_wins": 5,
       "d2_losses": 2,
       "d2_wr": 71.43,
       "nm_wins": 48,
-      "nm_losses": 77,
-      "nm_wr": 38.4
+      "nm_losses": 76,
+      "nm_wr": 38.71
     },
     {
       "name": "Viktor, Herald of the Arcane",
@@ -207,18 +207,18 @@
       "wins": 313,
       "losses": 234,
       "winrate": 57.22,
-      "wr_wins": 247,
-      "wr_losses": 230,
-      "wr": 51.78,
-      "d1_wins": 212,
-      "d1_losses": 194,
-      "d1_wr": 52.22,
+      "wr_wins": 246,
+      "wr_losses": 229,
+      "wr": 51.79,
+      "d1_wins": 211,
+      "d1_losses": 193,
+      "d1_wr": 52.23,
       "d2_wins": 35,
       "d2_losses": 36,
       "d2_wr": 49.3,
-      "nm_wins": 234,
-      "nm_losses": 217,
-      "nm_wr": 51.88
+      "nm_wins": 233,
+      "nm_losses": 216,
+      "nm_wr": 51.89
     },
     {
       "name": "Sivir, Battle Mistress",
@@ -231,18 +231,18 @@
       "wins": 85,
       "losses": 91,
       "winrate": 48.3,
-      "wr_wins": 65,
-      "wr_losses": 92,
-      "wr": 41.4,
-      "d1_wins": 56,
-      "d1_losses": 83,
-      "d1_wr": 40.29,
+      "wr_wins": 63,
+      "wr_losses": 91,
+      "wr": 40.91,
+      "d1_wins": 54,
+      "d1_losses": 82,
+      "d1_wr": 39.71,
       "d2_wins": 9,
       "d2_losses": 9,
       "d2_wr": 50,
-      "nm_wins": 65,
-      "nm_losses": 92,
-      "nm_wr": 41.4
+      "nm_wins": 63,
+      "nm_losses": 91,
+      "nm_wr": 40.91
     },
     {
       "name": "Teemo, Swift Scout",
@@ -255,18 +255,18 @@
       "wins": 110,
       "losses": 94,
       "winrate": 53.92,
-      "wr_wins": 86,
-      "wr_losses": 102,
-      "wr": 45.74,
-      "d1_wins": 76,
-      "d1_losses": 95,
-      "d1_wr": 44.44,
-      "d2_wins": 10,
-      "d2_losses": 7,
-      "d2_wr": 58.82,
-      "nm_wins": 84,
-      "nm_losses": 100,
-      "nm_wr": 45.65
+      "wr_wins": 78,
+      "wr_losses": 97,
+      "wr": 44.57,
+      "d1_wins": 71,
+      "d1_losses": 92,
+      "d1_wr": 43.56,
+      "d2_wins": 7,
+      "d2_losses": 5,
+      "d2_wr": 58.33,
+      "nm_wins": 76,
+      "nm_losses": 95,
+      "nm_wr": 44.44
     },
     {
       "name": "Volibear, Relentless Storm",
@@ -279,18 +279,18 @@
       "wins": 98,
       "losses": 97,
       "winrate": 50.26,
-      "wr_wins": 78,
-      "wr_losses": 93,
-      "wr": 45.61,
-      "d1_wins": 73,
-      "d1_losses": 89,
-      "d1_wr": 45.06,
+      "wr_wins": 75,
+      "wr_losses": 89,
+      "wr": 45.73,
+      "d1_wins": 70,
+      "d1_losses": 85,
+      "d1_wr": 45.16,
       "d2_wins": 5,
       "d2_losses": 4,
       "d2_wr": 55.56,
-      "nm_wins": 73,
-      "nm_losses": 88,
-      "nm_wr": 45.34
+      "nm_wins": 70,
+      "nm_losses": 84,
+      "nm_wr": 45.45
     },
     {
       "name": "Fiora, Grand Duelist",
@@ -304,17 +304,17 @@
       "losses": 166,
       "winrate": 53.89,
       "wr_wins": 159,
-      "wr_losses": 166,
-      "wr": 48.92,
+      "wr_losses": 165,
+      "wr": 49.07,
       "d1_wins": 139,
-      "d1_losses": 153,
-      "d1_wr": 47.6,
+      "d1_losses": 152,
+      "d1_wr": 47.77,
       "d2_wins": 20,
       "d2_losses": 13,
       "d2_wr": 60.61,
       "nm_wins": 150,
-      "nm_losses": 157,
-      "nm_wr": 48.86
+      "nm_losses": 156,
+      "nm_wr": 49.02
     },
     {
       "name": "Darius, Hand of Noxus",
@@ -327,18 +327,18 @@
       "wins": 170,
       "losses": 108,
       "winrate": 61.15,
-      "wr_wins": 141,
+      "wr_wins": 140,
       "wr_losses": 105,
-      "wr": 57.32,
+      "wr": 57.14,
       "d1_wins": 114,
       "d1_losses": 81,
       "d1_wr": 58.46,
-      "d2_wins": 27,
+      "d2_wins": 26,
       "d2_losses": 24,
-      "d2_wr": 52.94,
-      "nm_wins": 139,
+      "d2_wr": 52,
+      "nm_wins": 138,
       "nm_losses": 103,
-      "nm_wr": 57.44
+      "nm_wr": 57.26
     },
     {
       "name": "Ezreal, Prodigal Explorer",
@@ -351,17 +351,17 @@
       "wins": 213,
       "losses": 170,
       "winrate": 55.61,
-      "wr_wins": 161,
-      "wr_losses": 166,
-      "wr": 49.24,
-      "d1_wins": 146,
-      "d1_losses": 144,
-      "d1_wr": 50.34,
+      "wr_wins": 160,
+      "wr_losses": 165,
+      "wr": 49.23,
+      "d1_wins": 145,
+      "d1_losses": 143,
+      "d1_wr": 50.35,
       "d2_wins": 15,
       "d2_losses": 22,
       "d2_wr": 40.54,
-      "nm_wins": 156,
-      "nm_losses": 161,
+      "nm_wins": 155,
+      "nm_losses": 160,
       "nm_wr": 49.21
     },
     {
@@ -399,18 +399,18 @@
       "wins": 73,
       "losses": 75,
       "winrate": 49.32,
-      "wr_wins": 57,
-      "wr_losses": 81,
-      "wr": 41.3,
-      "d1_wins": 57,
-      "d1_losses": 81,
-      "d1_wr": 41.3,
+      "wr_wins": 54,
+      "wr_losses": 77,
+      "wr": 41.22,
+      "d1_wins": 54,
+      "d1_losses": 77,
+      "d1_wr": 41.22,
       "d2_wins": 0,
       "d2_losses": 0,
       "d2_wr": 0,
-      "nm_wins": 54,
-      "nm_losses": 78,
-      "nm_wr": 40.91
+      "nm_wins": 51,
+      "nm_losses": 74,
+      "nm_wr": 40.8
     },
     {
       "name": "Lee Sin, Blind Monk",
@@ -423,18 +423,18 @@
       "wins": 77,
       "losses": 71,
       "winrate": 52.03,
-      "wr_wins": 55,
+      "wr_wins": 54,
       "wr_losses": 71,
-      "wr": 43.65,
+      "wr": 43.2,
       "d1_wins": 47,
       "d1_losses": 66,
       "d1_wr": 41.59,
-      "d2_wins": 8,
+      "d2_wins": 7,
       "d2_losses": 5,
-      "d2_wr": 61.54,
-      "nm_wins": 55,
+      "d2_wr": 58.33,
+      "nm_wins": 54,
       "nm_losses": 71,
-      "nm_wr": 43.65
+      "nm_wr": 43.2
     },
     {
       "name": "Azir, Emperor of the Sands",
@@ -495,18 +495,18 @@
       "wins": 94,
       "losses": 95,
       "winrate": 49.74,
-      "wr_wins": 76,
-      "wr_losses": 105,
-      "wr": 41.99,
-      "d1_wins": 67,
-      "d1_losses": 94,
-      "d1_wr": 41.61,
+      "wr_wins": 73,
+      "wr_losses": 101,
+      "wr": 41.95,
+      "d1_wins": 64,
+      "d1_losses": 90,
+      "d1_wr": 41.56,
       "d2_wins": 9,
       "d2_losses": 11,
       "d2_wr": 45,
-      "nm_wins": 75,
-      "nm_losses": 104,
-      "nm_wr": 41.9
+      "nm_wins": 72,
+      "nm_losses": 100,
+      "nm_wr": 41.86
     },
     {
       "name": "Lux, Lady of Luminosity",
@@ -544,17 +544,17 @@
       "losses": 91,
       "winrate": 49.44,
       "wr_wins": 67,
-      "wr_losses": 93,
-      "wr": 41.88,
+      "wr_losses": 91,
+      "wr": 42.41,
       "d1_wins": 62,
-      "d1_losses": 88,
-      "d1_wr": 41.33,
+      "d1_losses": 86,
+      "d1_wr": 41.89,
       "d2_wins": 5,
       "d2_losses": 5,
       "d2_wr": 50,
       "nm_wins": 66,
-      "nm_losses": 92,
-      "nm_wr": 41.77
+      "nm_losses": 90,
+      "nm_wr": 42.31
     },
     {
       "name": "Leona, Radiant Dawn",
@@ -568,17 +568,17 @@
       "losses": 119,
       "winrate": 45.16,
       "wr_wins": 76,
-      "wr_losses": 121,
-      "wr": 38.58,
+      "wr_losses": 120,
+      "wr": 38.78,
       "d1_wins": 76,
-      "d1_losses": 121,
-      "d1_wr": 38.58,
+      "d1_losses": 120,
+      "d1_wr": 38.78,
       "d2_wins": 0,
       "d2_losses": 0,
       "d2_wr": 0,
       "nm_wins": 74,
-      "nm_losses": 119,
-      "nm_wr": 38.34
+      "nm_losses": 118,
+      "nm_wr": 38.54
     },
     {
       "name": "Ahri, Nine-Tailed Fox",
@@ -591,18 +591,18 @@
       "wins": 223,
       "losses": 186,
       "winrate": 54.52,
-      "wr_wins": 169,
-      "wr_losses": 184,
-      "wr": 47.88,
-      "d1_wins": 158,
-      "d1_losses": 169,
-      "d1_wr": 48.32,
+      "wr_wins": 167,
+      "wr_losses": 183,
+      "wr": 47.71,
+      "d1_wins": 156,
+      "d1_losses": 168,
+      "d1_wr": 48.15,
       "d2_wins": 11,
       "d2_losses": 15,
       "d2_wr": 42.31,
-      "nm_wins": 162,
-      "nm_losses": 177,
-      "nm_wr": 47.79
+      "nm_wins": 160,
+      "nm_losses": 176,
+      "nm_wr": 47.62
     },
     {
       "name": "Ornn, Fire Below the Mountain",
@@ -616,17 +616,17 @@
       "losses": 132,
       "winrate": 46.56,
       "wr_wins": 96,
-      "wr_losses": 133,
-      "wr": 41.92,
+      "wr_losses": 132,
+      "wr": 42.11,
       "d1_wins": 89,
-      "d1_losses": 126,
-      "d1_wr": 41.4,
+      "d1_losses": 125,
+      "d1_wr": 41.59,
       "d2_wins": 7,
       "d2_losses": 7,
       "d2_wr": 50,
       "nm_wins": 93,
-      "nm_losses": 130,
-      "nm_wr": 41.7
+      "nm_losses": 129,
+      "nm_wr": 41.89
     },
     {
       "name": "Rumble, Mechanized Menace",
@@ -639,18 +639,18 @@
       "wins": 131,
       "losses": 133,
       "winrate": 49.62,
-      "wr_wins": 103,
+      "wr_wins": 102,
       "wr_losses": 133,
-      "wr": 43.64,
-      "d1_wins": 94,
+      "wr": 43.4,
+      "d1_wins": 93,
       "d1_losses": 122,
-      "d1_wr": 43.52,
+      "d1_wr": 43.26,
       "d2_wins": 9,
       "d2_losses": 11,
       "d2_wr": 45,
-      "nm_wins": 100,
+      "nm_wins": 99,
       "nm_losses": 130,
-      "nm_wr": 43.48
+      "nm_wr": 43.23
     },
     {
       "name": "Rek'Sai, Void Burrower",
@@ -664,17 +664,17 @@
       "losses": 165,
       "winrate": 53.26,
       "wr_wins": 150,
-      "wr_losses": 165,
-      "wr": 47.62,
+      "wr_losses": 164,
+      "wr": 47.77,
       "d1_wins": 138,
-      "d1_losses": 145,
-      "d1_wr": 48.76,
+      "d1_losses": 144,
+      "d1_wr": 48.94,
       "d2_wins": 12,
       "d2_losses": 20,
       "d2_wr": 37.5,
       "nm_wins": 139,
-      "nm_losses": 154,
-      "nm_wr": 47.44
+      "nm_losses": 153,
+      "nm_wr": 47.6
     }
   ],
   "t64_players": [
@@ -1126,5 +1126,4683 @@
       "deck_id": "18d6b61f-e6ca-4efe-8f27-e832e825c79a",
       "has_decklist": true
     }
-  ]
+  ],
+  "matchups": {
+    "Master Yi, Wuju Bladesman": {
+      "Lucian, Purifier": {
+        "d1_wins": 14,
+        "d1_losses": 9,
+        "d2_wins": 4,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 10,
+        "d1_losses": 5,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 19,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 2
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 9,
+        "d1_losses": 5,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 6,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 42,
+        "d1_losses": 50,
+        "d2_wins": 6,
+        "d2_losses": 13
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 32,
+        "d1_losses": 30,
+        "d2_wins": 9,
+        "d2_losses": 5
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 10,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 5,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 9,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 8,
+        "d1_losses": 4,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 6,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 18,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 16,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 6,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 10,
+        "d1_losses": 1,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 10,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 3
+      },
+      "Sett, The Boss": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 9,
+        "d1_losses": 1,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 8,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      }
+    },
+    "Lucian, Purifier": {
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 9,
+        "d1_losses": 14,
+        "d2_wins": 1,
+        "d2_losses": 4
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 18,
+        "d1_losses": 20,
+        "d2_wins": 6,
+        "d2_losses": 6
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 10,
+        "d1_losses": 12,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 5,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 10,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 4,
+        "d2_losses": 4
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 8,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 4
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 21,
+        "d1_losses": 25,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 7,
+        "d2_wins": 2,
+        "d2_losses": 3
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 0,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 9,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 5,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 7,
+        "d1_losses": 2,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 5,
+        "d1_losses": 8,
+        "d2_wins": 3,
+        "d2_losses": 2
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 5,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 5,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Sett, The Boss": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Ornn, Fire Below the Mountain": {
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 4,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 7,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 4,
+        "d1_losses": 8,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 9,
+        "d1_losses": 20,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 3,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 8,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      }
+    },
+    "Ahri, Nine-Tailed Fox": {
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 23,
+        "d1_losses": 24,
+        "d2_wins": 4,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 11,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 10,
+        "d1_losses": 18,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 9,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 15,
+        "d1_losses": 21,
+        "d2_wins": 1,
+        "d2_losses": 4
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 8,
+        "d1_losses": 16,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 4,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 6,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 3,
+        "d1_losses": 13,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 6,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 5,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Teemo, Swift Scout": {
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 3,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 2,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 7,
+        "d1_losses": 16,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 4,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 8,
+        "d1_losses": 13,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Kai'Sa, Daughter of the Void": {
+      "Teemo, Swift Scout": {
+        "d1_wins": 9,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 10,
+        "d1_losses": 19,
+        "d2_wins": 2,
+        "d2_losses": 3
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 12,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 14,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 6,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 4,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 22,
+        "d1_losses": 51,
+        "d2_wins": 4,
+        "d2_losses": 8
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 24,
+        "d1_losses": 24,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 5,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 6,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 17,
+        "d1_losses": 11,
+        "d2_wins": 7,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 6,
+        "d1_losses": 9,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 33,
+        "d1_losses": 55,
+        "d2_wins": 11,
+        "d2_losses": 10
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 16,
+        "d1_losses": 8,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 7,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 6,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 11,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 10,
+        "d1_losses": 10,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 5,
+        "d1_losses": 7,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 14,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Irelia, Blade Dancer": {
+      "Draven, Glorious Executioner": {
+        "d1_wins": 61,
+        "d1_losses": 78,
+        "d2_wins": 19,
+        "d2_losses": 12
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 11,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 30,
+        "d1_losses": 32,
+        "d2_wins": 5,
+        "d2_losses": 9
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 46,
+        "d1_losses": 46,
+        "d2_wins": 11,
+        "d2_losses": 11
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 13,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 9,
+        "d1_losses": 21,
+        "d2_wins": 3,
+        "d2_losses": 2
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 19,
+        "d1_losses": 11,
+        "d2_wins": 2,
+        "d2_losses": 3
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 10,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 11,
+        "d1_losses": 20,
+        "d2_wins": 4,
+        "d2_losses": 2
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 27,
+        "d1_losses": 19,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 8,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 51,
+        "d1_losses": 22,
+        "d2_wins": 8,
+        "d2_losses": 4
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 9,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 12,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 6,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 21,
+        "d1_losses": 15,
+        "d2_wins": 4,
+        "d2_losses": 1
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 25,
+        "d1_losses": 21,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 17,
+        "d1_losses": 27,
+        "d2_wins": 6,
+        "d2_losses": 3
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 20,
+        "d1_losses": 23,
+        "d2_wins": 4,
+        "d2_losses": 4
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 16,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 15,
+        "d1_losses": 13,
+        "d2_wins": 5,
+        "d2_losses": 1
+      },
+      "Sett, The Boss": {
+        "d1_wins": 9,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 7,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 12,
+        "d1_losses": 8,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 5,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Draven, Glorious Executioner": {
+      "Irelia, Blade Dancer": {
+        "d1_wins": 78,
+        "d1_losses": 61,
+        "d2_wins": 12,
+        "d2_losses": 19
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 29,
+        "d1_losses": 22,
+        "d2_wins": 7,
+        "d2_losses": 2
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 13,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 19,
+        "d1_losses": 17,
+        "d2_wins": 0,
+        "d2_losses": 5
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 20,
+        "d1_losses": 18,
+        "d2_wins": 6,
+        "d2_losses": 6
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 50,
+        "d1_losses": 42,
+        "d2_wins": 13,
+        "d2_losses": 6
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 24,
+        "d1_losses": 23,
+        "d2_wins": 0,
+        "d2_losses": 4
+      },
+      "Sett, The Boss": {
+        "d1_wins": 20,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 24,
+        "d1_losses": 11,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 18,
+        "d1_losses": 20,
+        "d2_wins": 5,
+        "d2_losses": 5
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 11,
+        "d1_losses": 7,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 20,
+        "d1_losses": 9,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 34,
+        "d1_losses": 19,
+        "d2_wins": 5,
+        "d2_losses": 12
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 16,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 25,
+        "d1_losses": 8,
+        "d2_wins": 4,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 14,
+        "d1_losses": 7,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 15,
+        "d1_losses": 15,
+        "d2_wins": 8,
+        "d2_losses": 7
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 9,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 14,
+        "d1_losses": 11,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 55,
+        "d1_losses": 33,
+        "d2_wins": 10,
+        "d2_losses": 11
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 11,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 102,
+        "d1_losses": 102,
+        "d2_wins": 48,
+        "d2_losses": 48
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 15,
+        "d1_losses": 8,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 36,
+        "d1_losses": 26,
+        "d2_wins": 5,
+        "d2_losses": 8
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 13,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 8,
+        "d1_losses": 6,
+        "d2_wins": 2,
+        "d2_losses": 1
+      }
+    },
+    "Fiora, Grand Duelist": {
+      "Yasuo, Unforgiven": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 9,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 17,
+        "d1_losses": 19,
+        "d2_wins": 5,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 7,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 5,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 11,
+        "d1_losses": 19,
+        "d2_wins": 3,
+        "d2_losses": 2
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 9,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 5,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 5,
+        "d1_losses": 10,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 7,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 10,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sett, The Boss": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 1,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Yasuo, Unforgiven": {
+      "Fiora, Grand Duelist": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 4,
+        "d1_losses": 13,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 7,
+        "d1_losses": 13,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 5,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 5,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 0,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 1
+      }
+    },
+    "Ezreal, Prodigal Explorer": {
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 5,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 3,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 3,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 20,
+        "d1_losses": 18,
+        "d2_wins": 5,
+        "d2_losses": 5
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 19,
+        "d1_losses": 27,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 8,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 7,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 13,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 5,
+        "d1_losses": 14,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 3,
+        "d1_losses": 5,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Renata Glasc, Chem-Baroness": {
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 4,
+        "d1_losses": 8,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 2,
+        "d1_losses": 11,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 0,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Rek'Sai, Void Burrower": {
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 5,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 7,
+        "d1_losses": 14,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 5,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 20,
+        "d1_losses": 11,
+        "d2_wins": 2,
+        "d2_losses": 4
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 8,
+        "d1_losses": 25,
+        "d2_wins": 1,
+        "d2_losses": 4
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 5,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 3,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 10,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 6,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 6,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 10,
+        "d1_losses": 11,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Azir, Emperor of the Sands": {
+      "Draven, Glorious Executioner": {
+        "d1_wins": 22,
+        "d1_losses": 29,
+        "d2_wins": 2,
+        "d2_losses": 7
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 9,
+        "d1_losses": 6,
+        "d2_wins": 3,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 6,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 4,
+        "d1_losses": 6,
+        "d2_wins": 4,
+        "d2_losses": 4
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 3
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 7,
+        "d1_losses": 4,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 5,
+        "d1_losses": 3,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 27,
+        "d1_losses": 17,
+        "d2_wins": 3,
+        "d2_losses": 6
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 9,
+        "d1_losses": 6,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 12,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 4,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 3,
+        "d2_losses": 3
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 1
+      }
+    },
+    "Garen, Might of Demacia": {
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 2,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Leona, Radiant Dawn": {
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 2,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 3,
+        "d1_losses": 16,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 4,
+        "d1_losses": 9,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 0,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 8,
+        "d1_losses": 12,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 8,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Rumble, Mechanized Menace": {
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 0,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 11,
+        "d1_losses": 24,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 4,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 8,
+        "d1_losses": 12,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 3,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 4,
+        "d1_losses": 11,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 6,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 0,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 1
+      }
+    },
+    "Lux, Lady of Luminosity": {
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 6,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 1,
+        "d1_losses": 10,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 6,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 8,
+        "d1_losses": 15,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 2,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Volibear, Relentless Storm": {
+      "Irelia, Blade Dancer": {
+        "d1_wins": 9,
+        "d1_losses": 11,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 0,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 6,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 0,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Miss Fortune, Bounty Hunter": {
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 2,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 7,
+        "d1_losses": 14,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 2,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 0,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 0,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 10,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Darius, Hand of Noxus": {
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 21,
+        "d1_losses": 9,
+        "d2_wins": 2,
+        "d2_losses": 3
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 4,
+        "d1_losses": 8,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 15,
+        "d1_losses": 15,
+        "d2_wins": 7,
+        "d2_losses": 8
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 7,
+        "d1_losses": 1,
+        "d2_wins": 3,
+        "d2_losses": 2
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 8,
+        "d1_losses": 5,
+        "d2_wins": 3,
+        "d2_losses": 3
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 7,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 5,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 4,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 6,
+        "d1_losses": 2,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 0,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      }
+    },
+    "Sivir, Battle Mistress": {
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 5,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 6,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 11,
+        "d1_losses": 14,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 8,
+        "d1_losses": 7,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Viktor, Herald of the Arcane": {
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 8,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 10,
+        "d1_losses": 8,
+        "d2_wins": 4,
+        "d2_losses": 3
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 10,
+        "d1_losses": 16,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 4,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 6,
+        "d1_losses": 8,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 23,
+        "d1_losses": 20,
+        "d2_wins": 4,
+        "d2_losses": 4
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 11,
+        "d1_losses": 17,
+        "d2_wins": 0,
+        "d2_losses": 7
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 26,
+        "d1_losses": 36,
+        "d2_wins": 8,
+        "d2_losses": 5
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 6,
+        "d1_losses": 1,
+        "d2_wins": 2,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 10,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 9,
+        "d1_losses": 11,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 11,
+        "d1_losses": 11,
+        "d2_wins": 2,
+        "d2_losses": 2
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 5,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 5,
+        "d1_losses": 8,
+        "d2_wins": 3,
+        "d2_losses": 3
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 7,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 6,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 6,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 12,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 10,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 11,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 5,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Jinx, Loose Cannon": {
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 6,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 5,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 4,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 1,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Lee Sin, Blind Monk": {
+      "Leona, Radiant Dawn": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 1,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Annie, Dark Child": {
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 4,
+        "d1_losses": 11,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 6,
+        "d1_losses": 4,
+        "d2_wins": 4,
+        "d2_losses": 4
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 7,
+        "d1_losses": 7,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Draven, Glorious Executioner": {
+        "d1_wins": 19,
+        "d1_losses": 34,
+        "d2_wins": 12,
+        "d2_losses": 5
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 9,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 10,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 11,
+        "d1_losses": 9,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 13,
+        "d1_losses": 15,
+        "d2_wins": 1,
+        "d2_losses": 5
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 8,
+        "d1_losses": 5,
+        "d2_wins": 2,
+        "d2_losses": 3
+      },
+      "Sett, The Boss": {
+        "d1_wins": 2,
+        "d1_losses": 4,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 5,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 4,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 4,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 5,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 2
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 3,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 1,
+        "d2_losses": 0
+      }
+    },
+    "Sett, The Boss": {
+      "Draven, Glorious Executioner": {
+        "d1_wins": 5,
+        "d1_losses": 20,
+        "d2_wins": 1,
+        "d2_losses": 1
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 2,
+        "d1_losses": 5,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 9,
+        "d1_losses": 9,
+        "d2_wins": 2,
+        "d2_losses": 1
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 2,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 2,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 3,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 0,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 4,
+        "d1_losses": 5,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 2,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Sett, The Boss": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    },
+    "Jax, Grandmaster at Arms": {
+      "Draven, Glorious Executioner": {
+        "d1_wins": 7,
+        "d1_losses": 11,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Azir, Emperor of the Sands": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 3,
+        "d2_losses": 0
+      },
+      "Leona, Radiant Dawn": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Renata Glasc, Chem-Baroness": {
+        "d1_wins": 1,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Irelia, Blade Dancer": {
+        "d1_wins": 10,
+        "d1_losses": 6,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Annie, Dark Child": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Jax, Grandmaster at Arms": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Viktor, Herald of the Arcane": {
+        "d1_wins": 0,
+        "d1_losses": 4,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Master Yi, Wuju Bladesman": {
+        "d1_wins": 1,
+        "d1_losses": 10,
+        "d2_wins": 1,
+        "d2_losses": 3
+      },
+      "Sivir, Battle Mistress": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Yasuo, Unforgiven": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Lux, Lady of Luminosity": {
+        "d1_wins": 4,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lucian, Purifier": {
+        "d1_wins": 2,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 2
+      },
+      "Sett, The Boss": {
+        "d1_wins": 3,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Volibear, Relentless Storm": {
+        "d1_wins": 4,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Kai'Sa, Daughter of the Void": {
+        "d1_wins": 4,
+        "d1_losses": 7,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Ornn, Fire Below the Mountain": {
+        "d1_wins": 3,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ahri, Nine-Tailed Fox": {
+        "d1_wins": 1,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Fiora, Grand Duelist": {
+        "d1_wins": 3,
+        "d1_losses": 6,
+        "d2_wins": 1,
+        "d2_losses": 0
+      },
+      "Rumble, Mechanized Menace": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Rek'Sai, Void Burrower": {
+        "d1_wins": 0,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Ezreal, Prodigal Explorer": {
+        "d1_wins": 3,
+        "d1_losses": 3,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Teemo, Swift Scout": {
+        "d1_wins": 2,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Darius, Hand of Noxus": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Miss Fortune, Bounty Hunter": {
+        "d1_wins": 1,
+        "d1_losses": 2,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Garen, Might of Demacia": {
+        "d1_wins": 1,
+        "d1_losses": 0,
+        "d2_wins": 0,
+        "d2_losses": 0
+      },
+      "Lee Sin, Blind Monk": {
+        "d1_wins": 1,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 1
+      },
+      "Jinx, Loose Cannon": {
+        "d1_wins": 0,
+        "d1_losses": 1,
+        "d2_wins": 0,
+        "d2_losses": 0
+      }
+    }
+  }
 }

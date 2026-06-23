@@ -3,6 +3,7 @@ import { join } from "path";
 import type { EventMeta, TournamentData } from "@/lib/types";
 import MetaView from "@/app/components/MetaView";
 import TrendChart from "@/app/components/TrendChart";
+import MatchupSection from "@/app/components/MatchupSection";
 
 function loadTournaments(): TournamentData[] {
   const dataDir = join(process.cwd(), "data", "tournaments");
@@ -56,6 +57,17 @@ export default function Home() {
         </section>
 
         <MetaView tournaments={tournaments} />
+
+        <section className="mt-14">
+          <h2 className="text-xl font-semibold text-zinc-100 mb-1">
+            Matchup matrix
+          </h2>
+          <p className="text-zinc-500 text-sm mb-4">
+            Head-to-head winrates from per-match data. Pick events, a day phase,
+            and the legends to compare.
+          </p>
+          <MatchupSection tournaments={tournaments} />
+        </section>
       </div>
     </main>
   );

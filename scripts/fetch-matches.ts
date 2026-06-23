@@ -18,7 +18,13 @@
  */
 import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
-import type { EventMeta, TournamentData, LegendStats } from "../lib/types";
+import type {
+  EventMeta,
+  TournamentData,
+  LegendStats,
+  MatchupCell,
+  MatchupMatrix,
+} from "../lib/types";
 
 const API = "https://api.cloudflare.riftbound.uvsgames.com/hydraproxy/api/v2";
 const DATA_DIR = join(process.cwd(), "data", "tournaments");
@@ -71,7 +77,13 @@ interface Phase {
   rounds: { id: number; round_number: number }[];
 }
 
-async function processEvent(meta: EventMeta): Promise<Map<string, Bucket>> {
+function newCell(): MatchupCell {
+  return { d1_wins: 0, d1_losses: 0, d2_wins: 0, d2_losses: 0 };
+}
+
+async function processEvent(
+  meta: EventMeta
+): Promise<{ buckets: Map<string, Bucket>; matrix: MatchupMatrix }> {
   const buckets = new Map<string, Bucket>();
   const get = (name: string) => {
     let b = buckets.get(name);
@@ -80,6 +92,13 @@ async function processEvent(meta: EventMeta): Promise<Map<string, Bucket>> {
       buckets.set(name, b);
     }
     return b;
+  };
+
+  // Head-to-head: matrix[A][B] = A's record vs B. Both directions tallied.
+  const matrix: MatchupMatrix = {};
+  const cell = (a: string, b: string) => {
+    const row = (matrix[a] ??= {});
+    return (row[b] ??= newCell());
   };
 
   const event = await getJson<{ tournament_phases: Phase[] }>(`${API}/events/${meta.id}/`);
@@ -132,13 +151,26 @@ async function processEvent(meta: EventMeta): Promise<Map<string, Bucket>> {
             if (!isMirror) b.nm_losses++;
           }
         }
+
+        // Head-to-head pairing: tally each side's result vs the other.
+        const [s0, s1] = sides;
+        const wonField = (day === 1 ? "d1_wins" : "d2_wins") as keyof MatchupCell;
+        const lostField = (day === 1 ? "d1_losses" : "d2_losses") as keyof MatchupCell;
+        const s0Won = m.winning_player != null && s0.pid === m.winning_player;
+        const s1Won = m.winning_player != null && s1.pid === m.winning_player;
+        cell(s0.legend as string, s1.legend as string)[
+          s0Won ? wonField : lostField
+        ]++;
+        cell(s1.legend as string, s0.legend as string)[
+          s1Won ? wonField : lostField
+        ]++;
       }
       if (!data.next) break;
       page++;
       await sleep(80);
     }
   }
-  return buckets;
+  return { buckets, matrix };
 }
 
 function applyBuckets(l: LegendStats, b: Bucket | undefined): LegendStats {
@@ -181,10 +213,11 @@ async function main() {
   for (const meta of index) {
     process.stdout.write(`Matches: ${meta.name} … `);
     try {
-      const buckets = await processEvent(meta);
+      const { buckets, matrix } = await processEvent(meta);
       const file = join(DATA_DIR, `${meta.id}.json`);
       const t: TournamentData = JSON.parse(readFileSync(file, "utf-8"));
       t.legends = t.legends.map((l) => applyBuckets(l, buckets.get(l.name)));
+      t.matchups = matrix;
       writeFileSync(file, JSON.stringify(t, null, 2));
       const totW = t.legends.reduce((s, l) => s + l.wr_wins, 0);
       const totL = t.legends.reduce((s, l) => s + l.wr_losses, 0);

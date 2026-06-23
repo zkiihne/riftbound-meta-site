@@ -33,6 +33,17 @@ export interface T64Player {
   has_decklist: boolean;
 }
 
+// Head-to-head record (byes excluded, draws excluded). matchups[A][B] is A's
+// record vs B; stored in both directions. matchups[A][A] is the mirror.
+export interface MatchupCell {
+  d1_wins: number;
+  d1_losses: number;
+  d2_wins: number;
+  d2_losses: number;
+}
+
+export type MatchupMatrix = Record<string, Record<string, MatchupCell>>;
+
 export interface TournamentData {
   event_id: number;
   event_name: string;
@@ -40,6 +51,7 @@ export interface TournamentData {
   total_players: number;
   legends: LegendStats[];
   t64_players: T64Player[];
+  matchups?: MatchupMatrix;
 }
 
 export interface EventMeta {
