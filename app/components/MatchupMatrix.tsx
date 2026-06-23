@@ -1,12 +1,25 @@
 "use client";
 
-import type { MatchupMatrix as Matrix } from "@/lib/types";
+import type { MatchupMatrix as Matrix, LegendStats } from "@/lib/types";
 import { cellRecord, cellWinrate, type DayMode } from "@/lib/matchups";
 
 interface Props {
   matrix: Matrix;
   legends: string[]; // ordered list used for both rows and columns
   dayMode: DayMode;
+  stats: Record<string, LegendStats>; // per-legend aggregates for header winrates
+}
+
+// A legend's overall winrate under the active day mode, or null when no games.
+function overallWr(l: LegendStats | undefined, mode: DayMode): number | null {
+  if (!l) return null;
+  if (mode === "d1") return l.d1_wins + l.d1_losses > 0 ? l.d1_wr : null;
+  if (mode === "d2") return l.d2_wins + l.d2_losses > 0 ? l.d2_wr : null;
+  return l.wr_wins + l.wr_losses > 0 ? l.wr : null;
+}
+
+function fmtWr(wr: number | null) {
+  return wr === null ? "—" : `${Math.round(wr)}%`;
 }
 
 const DAY_LABEL: Record<DayMode, string> = {
@@ -30,7 +43,12 @@ function heatStyle(wr: number | null): React.CSSProperties {
   return { backgroundColor: `rgba(${rgb}, ${alpha.toFixed(3)})` };
 }
 
-export default function MatchupMatrix({ matrix, legends, dayMode }: Props) {
+export default function MatchupMatrix({
+  matrix,
+  legends,
+  dayMode,
+  stats,
+}: Props) {
   if (legends.length === 0) {
     return (
       <p className="text-zinc-500 text-sm py-12 text-center">
@@ -50,10 +68,15 @@ export default function MatchupMatrix({ matrix, legends, dayMode }: Props) {
             {legends.map((col) => (
               <th
                 key={col}
-                className="sticky top-0 z-10 bg-zinc-900 px-1.5 py-2 text-zinc-400 font-medium whitespace-nowrap"
-                title={col}
+                className="sticky top-0 z-10 bg-zinc-900 px-1.5 py-2 text-zinc-400 font-medium whitespace-nowrap align-bottom"
+                title={`${col} — overall ${fmtWr(overallWr(stats[col], dayMode))}`}
               >
-                {short(col)}
+                <div className="leading-tight">
+                  <div>{short(col)}</div>
+                  <div className="text-[10px] text-zinc-500 font-normal">
+                    {fmtWr(overallWr(stats[col], dayMode))}
+                  </div>
+                </div>
               </th>
             ))}
           </tr>
@@ -64,9 +87,12 @@ export default function MatchupMatrix({ matrix, legends, dayMode }: Props) {
               <th
                 scope="row"
                 className="sticky left-0 z-10 bg-zinc-900 px-2 py-1.5 text-left text-zinc-300 font-medium whitespace-nowrap"
-                title={row}
+                title={`${row} — overall ${fmtWr(overallWr(stats[row], dayMode))}`}
               >
-                {short(row)}
+                <span>{short(row)}</span>
+                <span className="ml-1.5 text-[10px] text-zinc-500 font-normal">
+                  {fmtWr(overallWr(stats[row], dayMode))}
+                </span>
               </th>
               {legends.map((col) => {
                 const isMirror = row === col;

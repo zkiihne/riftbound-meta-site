@@ -39,14 +39,23 @@ export default function MatchupSection({ tournaments }: Props) {
     [tournaments, selectedIds]
   );
 
+  const legendStats = useMemo(() => aggregateLegends(selected), [selected]);
+
+  // Per-legend lookup for header winrates.
+  const statsByName = useMemo(() => {
+    const m: Record<string, (typeof legendStats)[number]> = {};
+    for (const l of legendStats) m[l.name] = l;
+    return m;
+  }, [legendStats]);
+
   // Legends ranked by field (play count) across the selected events.
   const ranked = useMemo(
     () =>
-      aggregateLegends(selected)
+      legendStats
         .slice()
         .sort((a, b) => b.field - a.field)
         .map((l) => l.name),
-    [selected]
+    [legendStats]
   );
 
   const matrix = useMemo(() => aggregateMatchups(selected), [selected]);
@@ -132,7 +141,12 @@ export default function MatchupSection({ tournaments }: Props) {
         )}
       </div>
 
-      <MatchupMatrix matrix={matrix} legends={shown} dayMode={dayMode} />
+      <MatchupMatrix
+        matrix={matrix}
+        legends={shown}
+        dayMode={dayMode}
+        stats={statsByName}
+      />
 
       <p className="text-zinc-600 text-xs mt-3">
         Each cell is the row legend&apos;s winrate vs the column legend (byes and
