@@ -101,7 +101,12 @@ export default function MatchupMatrix({ matrix, legends, dayMode }: Props) {
                     {wr === null ? (
                       <span className="text-zinc-700">·</span>
                     ) : (
-                      `${Math.round(wr)}%`
+                      <div className="leading-tight">
+                        <div>{Math.round(wr)}%</div>
+                        <div className="text-[10px] text-zinc-400/80">
+                          {games}
+                        </div>
+                      </div>
                     )}
                   </td>
                 );
