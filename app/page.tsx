@@ -4,6 +4,7 @@ import type { EventMeta, TournamentData } from "@/lib/types";
 import MetaView from "@/app/components/MetaView";
 import TrendChart from "@/app/components/TrendChart";
 import MatchupSection from "@/app/components/MatchupSection";
+import CollapsibleSection from "@/app/components/CollapsibleSection";
 
 function loadTournaments(): TournamentData[] {
   const dataDir = join(process.cwd(), "data", "tournaments");
@@ -45,29 +46,26 @@ export default function Home() {
             </span>
           </p>
         </div>
-        <section className="mb-12">
-          <h2 className="text-xl font-semibold text-zinc-100 mb-1">
-            Trends across events
-          </h2>
-          <p className="text-zinc-500 text-sm mb-4">
-            How the most-played legends moved across regional qualifiers,
-            chronologically.
-          </p>
+        <CollapsibleSection
+          title="Trends across events"
+          description="How the most-played legends moved across regional qualifiers, chronologically."
+        >
           <TrendChart tournaments={tournaments} />
-        </section>
+        </CollapsibleSection>
 
-        <MetaView tournaments={tournaments} />
+        <CollapsibleSection
+          title="Legend stats"
+          description="Per-legend conversion, winrate, and field representation. Expand a legend for its decklists."
+        >
+          <MetaView tournaments={tournaments} />
+        </CollapsibleSection>
 
-        <section className="mt-14">
-          <h2 className="text-xl font-semibold text-zinc-100 mb-1">
-            Matchup matrix
-          </h2>
-          <p className="text-zinc-500 text-sm mb-4">
-            Head-to-head winrates from per-match data. Pick events, a day phase,
-            and the legends to compare.
-          </p>
+        <CollapsibleSection
+          title="Matchup matrix"
+          description="Head-to-head winrates from per-match data. Pick events, a day phase, and the legends to compare."
+        >
           <MatchupSection tournaments={tournaments} />
-        </section>
+        </CollapsibleSection>
       </div>
     </main>
   );
